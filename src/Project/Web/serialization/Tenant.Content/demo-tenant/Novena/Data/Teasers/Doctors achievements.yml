@@ -1,0 +1,43 @@
+﻿---
+ID: "c2dc1a8f-25bb-47cb-8ed5-654dc4785bbe"
+Parent: "2d166791-b882-4e52-9d24-1193e90474cd"
+Template: "15955fd0-c944-4d20-8e6d-de70f6312944"
+Path: "/sitecore/content/demo-tenant/Novena/Data/Teasers/Doctors achievements"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T091516Z
+    - ID: "36997298-ffa7-4ba7-b3f4-8fb83c6100b5"
+      Hint: Heading
+      Value: Doctors Achievements
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "96865b39-06a9-4dd0-9037-6d4aebaa2853"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c7cbb166-0a37-4241-bef0-9debbf8b184c"
+      Hint: Items
+      Value: |
+        {B19FABD5-D9AF-412B-99C1-01CBAC318D91}
+        {36456776-57AE-4BF0-9133-262E491073D3}
+        {5F3063FA-6728-4928-9F19-172EC6192888}
+        {DF1AAA41-D64A-43C5-A4E5-3F707FD62763}
+        {662EDB99-C3A8-4C3B-A9F5-17EE98FE7E0C}
+        {D6D7CA12-2F5A-4C91-B922-C4A8D938F2A5}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230106T092006Z

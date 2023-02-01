@@ -1,0 +1,43 @@
+﻿---
+ID: "5971649a-21e8-40d2-a894-01e808abe664"
+Parent: "fa39502f-1f9f-4205-985c-d56229b799f4"
+Template: "5c33f3ab-0fb8-42d7-bc18-37e0db62f003"
+Path: "/sitecore/content/demo-tenant/Novena/Data/Teasers1/Emergency Case"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221229T072923Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6f916209-f186-4c19-90b3-87e324be7a0e"
+      Hint: Heading
+      Value: Emergency Cases
+    - ID: "89638aee-66a3-410f-935b-b6ad4d5d7146"
+      Hint: TagLine
+      Value: "1-800-700-6200"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13d14404-541c-443f-8e91-91712c6ea74d"
+    - ID: "99e306c5-fd74-4289-ba2a-1d427862e5fd"
+      Hint: Text
+      Value: Get ALl time support for emergency.We have introduced the principle of family medicine.Get Conneted with us for any urgency.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221229T073005Z
+    - ID: "eb06879b-af00-4631-a47a-6360ef8bf348"
+      Hint: IconClass
+      Value: "icofont-support"

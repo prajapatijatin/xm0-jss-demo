@@ -1,0 +1,57 @@
+﻿---
+ID: "2e945a3d-6576-4e60-8c77-80058e722df7"
+Parent: "7494682b-73ba-48d1-810e-861207bd3dcb"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/demo-tenant/Novena/Presentation/Partial Designs/Footer/Data/Text 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221230T150817Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="col-lg-3 col-md-6 col-sm-6">
+        <div class="widget widget-contact mb-5 mb-lg-0">
+        <h4 class="text-capitalize mb-3">Get in Touch</h4>
+        <div class="divider mb-4">&nbsp;</div>
+        <div class="footer-contact-block mb-4">
+        <div class="icon d-flex align-items-center">
+        <em class="icofont-email mr-3"></em>
+        <span class="h6 mb-0">Support Available for 24/7</span>
+        </div>
+        <h4 class="mt-2"><a href="tel:+23-345-67890">Support@email.com</a></h4>
+        </div>
+        <div class="footer-contact-block">
+        <div class="icon d-flex align-items-center">
+        <em class="icofont-support mr-3"></em>
+        <span class="h6 mb-0">Mon to Fri : 08:30 - 18:00</span>
+        </div>
+        <h4 class="mt-2"><a href="tel:+23-345-67890">+23-456-6588</a></h4>
+        </div>
+        </div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5387cae0-f1b3-4096-871a-ee73b1181f29"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221230T150847Z

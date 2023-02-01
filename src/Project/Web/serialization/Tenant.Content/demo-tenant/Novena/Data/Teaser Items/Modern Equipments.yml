@@ -1,0 +1,43 @@
+﻿---
+ID: "04752777-2bb1-4834-970d-0d86da12df95"
+Parent: "2a38d439-9310-4eb6-99de-297ab6f87199"
+Template: "f2758bdc-97d2-4d24-8abd-59ac8e1a1acb"
+Path: "/sitecore/content/demo-tenant/Novena/Data/Teaser Items/Modern Equipments"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T084932Z
+    - ID: "2e84e934-eb3f-4ab3-8f5d-8aef9b14ba1d"
+      Hint: Image
+      Value: |
+        <image mediaid="{A7E0B1CA-B7E4-44E2-A34D-3E49AA606E61}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "617e08a1-b313-414c-892b-4c15184722ba"
+    - ID: "b363a3b6-55c5-4495-8b6b-b00af9a08fd9"
+      Hint: Heading
+      Value: Medical Equipments
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cb5be0a9-f23b-469d-a07c-1d91a003285f"
+      Hint: Text
+      Value: |
+        Voluptate aperiam esse possimus maxime repellendus, nihil quod accusantium.
+        
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230106T085408Z

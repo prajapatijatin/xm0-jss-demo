@@ -1,0 +1,69 @@
+version: "2.4"
+services:
+  dotnetsdk:
+    image: ${REGISTRY}${COMPOSE_PROJECT_NAME}-dotnetsdk:${VERSION:-latest}
+    build:
+      context: ./build/dotnetsdk
+      args:
+        CORE_SDK_IMAGE: ${CORE_SDK_IMAGE}
+        DOTNET_SDK_IMAGE: ${DOTNET_SDK_IMAGE}
+    scale: 0
+  
+  solution:
+    image: ${REGISTRY}${COMPOSE_PROJECT_NAME}-solution:${VERSION:-latest}
+    build:
+      context: ../
+      args:
+        BUILD_IMAGE: ${REGISTRY}${COMPOSE_PROJECT_NAME}-dotnetsdk:${VERSION:-latest}
+        BUILD_CONFIGURATION: ${BUILD_CONFIGURATION}
+        SOLUTION_BASE_IMAGE: ${SOLUTION_BASE_IMAGE}
+    scale: 0
+    depends_on:
+      - dotnetsdk
+  mssql:
+    volumes:
+      - ${LOCAL_DATA_PATH}\mssql:c:\data
+
+  solr:
+    volumes:
+      - ${LOCAL_DATA_PATH}\solr:c:\data
+
+  id:
+    volumes:
+      - ${HOST_LICENSE_FOLDER}:c:\license
+    environment:
+      SITECORE_LICENSE_LOCATION: c:\license\license.xml
+  
+  cm:
+    image: ${REGISTRY}${COMPOSE_PROJECT_NAME}-${TOPOLOGY}-cm:${VERSION:-latest}
+    build:
+      context: ./build/cm
+      args:
+        BASE_IMAGE: ${SITECORE_DOCKER_REGISTRY}sitecore-${TOPOLOGY}-cm:${SITECORE_VERSION}
+        SPE_IMAGE: ${SITECORE_DOCKER_REGISTRY}modules/sitecore-spe-assets:${SITECORE_SPE_VERSION}
+        TOOLING_IMAGE: ${SITECORE_TOOLS_REGISTRY}sitecore-docker-tools-assets:${TOOLS_VERSION}
+        SXA_IMAGE: ${SITECORE_MODULE_REGISTRY}sitecore-sxa-${TOPOLOGY}-assets:${SXA_VERSION}
+        SMS_IMAGE: ${SITECORE_MODULE_REGISTRY}sitecore-management-services-${TOPOLOGY}-assets:${SMS_VERSION:-latest}
+        HEADLESS_IMAGE: ${SITECORE_MODULE_REGISTRY}sitecore-headless-services-${TOPOLOGY}-assets:${HEADLESS_VERSION:-latest}
+        # SOLUTION_IMAGE: ${REGISTRY}${COMPOSE_PROJECT_NAME}-solution:${VERSION:-latest}
+    volumes:
+      - ${LOCAL_DATA_PATH}\device-detection-data:C:\inetpub\wwwroot\App_Data\DeviceDetection
+      - ${LOCAL_DATA_PATH}\cm:C:\inetpub\wwwroot\App_Data\logs
+      - ${HOST_LICENSE_FOLDER}:c:\license
+      - ${LOCAL_DEPLOY_PATH}\website:c:\deploy
+    depends_on:
+      - solution
+    environment:
+      SITECORE_DEVELOPMENT_PATCHES: DevEnvOn,CustomErrorsOff,HttpErrorsDetailed,DebugOn,DiagnosticsOff,InitMessagesOff,RobotDetectionOff
+      SITECORE_LICENSE_LOCATION: c:\license\license.xml
+      Sitecore_AppSettings_exmEnabled:define: "no" # remove to turn on EXM        
+      JSS_DEPLOYMENT_SECRET: ${JSS_DEPLOYMENT_SECRET}
+      JSS_EDITING_SECRET: ${JSS_EDITING_SECRET}
+    entrypoint: powershell -Command "& C:\tools\entrypoints\iis\Development.ps1"
+    mem_limit: ${MEMORY_LIMIT_SQL:-4GB}
+
+
+
+
+
+

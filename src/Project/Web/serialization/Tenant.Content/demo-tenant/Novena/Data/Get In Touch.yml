@@ -1,0 +1,42 @@
+﻿---
+ID: "f8ceb954-4614-42a0-8c4d-8ef3a1ce182e"
+Parent: "9ad369fd-613b-41da-92b8-da66b485aad9"
+Template: "78bfd8db-60b9-45a5-b96f-6d8b5f47f8a3"
+Path: "/sitecore/content/demo-tenant/Novena/Data/Get In Touch"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221230T151641Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71625963-8291-4238-8d8a-610b91be31d6"
+      Hint: ContactItems
+      Value: |
+        {3F90D3BF-1996-4B83-97A0-8AE21F9B290C}
+        {D00619A1-E3D6-4B4B-864D-DE9E518066F0}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fe6524a0-89f4-4307-9da8-f708acb6a5fd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221230T154555Z
+    - ID: "e3835fdd-27e0-4812-9c79-9c600c5a8cb3"
+      Hint: Heading
+      Value: Get In Touch

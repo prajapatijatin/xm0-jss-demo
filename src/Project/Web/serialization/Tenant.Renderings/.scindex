@@ -1,0 +1,55 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Renderings\demo-tenant.yml
+ID: "184f16fa-2e24-4053-a817-b8dbb67c3f37"
+Parent: "1995806f-0a84-42b5-93b0-88f0e2ff872c"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: "/sitecore/layout/Renderings/Project/demo-tenant"
+Signature: ve3IMWqgzu/rZkhsHGPoC5jSWUOA1axaekWCzOhnRWo=
+Modified: 638084413650132761
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Renderings\demo-tenant\Novena.yml
+ID: "15519983-1405-424c-a3bc-fe1fe3c922cc"
+Parent: "184f16fa-2e24-4053-a817-b8dbb67c3f37"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: "/sitecore/layout/Renderings/Project/demo-tenant/Novena"
+Signature: +gROtOn792/9Ovjy1Hl3y2pGdtN0VNQn/FwoVyDB4fk=
+Modified: 638084413650199274
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Renderings\demo-tenant\Novena\Header.yml
+ID: "333a8e2a-1a70-4e51-a73f-3626d35aa9c0"
+Parent: "15519983-1405-424c-a3bc-fe1fe3c922cc"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Project/demo-tenant/Novena/Header"
+Signature: D0itkkYezLWoBmuRZD3WMTHhxNRl7RRGGWiE8D9G3j0=
+Modified: 638084413650334884
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Renderings\demo-tenant\Novena\FeaturesContainer.yml
+ID: "6b02d70f-59a7-4682-8114-628f63a6cc90"
+Parent: "15519983-1405-424c-a3bc-fe1fe3c922cc"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Project/demo-tenant/Novena/FeaturesContainer"
+Signature: gZVHdJs7H0riNhkP5imfyEFvGKyz3FRygNJu48NWLJg=
+Modified: 638084413650259432
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Renderings\demo-tenant\Novena\FixedWidthContainer.yml
+ID: "7bf2f8d9-ee5d-4284-a016-afa4834c4916"
+Parent: "15519983-1405-424c-a3bc-fe1fe3c922cc"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Project/demo-tenant/Novena/FixedWidthContainer"
+Signature: QRWxtiecmCGofQK4FBLAGP1tpFwDHYetEKh7rJ3lI0I=
+Modified: 638084413650294776
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Renderings\demo-tenant\Novena\HeaderTopBar.yml
+ID: "45331511-a8e2-4a5c-b788-769b80989dab"
+Parent: "15519983-1405-424c-a3bc-fe1fe3c922cc"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Project/demo-tenant/Novena/HeaderTopBar"
+Signature: h60XZie/aYb0qGupf0rri2ZKnhdROBO72pmq5VYhek0=
+Modified: 638084413650379130

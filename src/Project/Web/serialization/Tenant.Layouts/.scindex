@@ -1,0 +1,19 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Layouts\Novena\Default.yml
+ID: "a8816e37-cd1d-4a33-a3eb-030b3ddf4d19"
+Parent: "3b433b36-bf63-4597-bc13-0eea1a8551af"
+Template: "35c61e90-47dd-43dd-83a8-d1c4d5119720"
+Path: /sitecore/layout/Layouts/Project/Novena/Default
+Signature: YIcR9bWwyZ3LFj0YwERE2QlrWOXshCg/WtJUWlJcVRw=
+Modified: 638084414991703700
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Layouts\Novena.yml
+ID: "3b433b36-bf63-4597-bc13-0eea1a8551af"
+Parent: "da04b275-8838-4a3a-afee-817cf1fdd2eb"
+Template: "93227c5d-4fef-474d-94c0-f252ec8e8219"
+Path: /sitecore/layout/Layouts/Project/Novena
+Signature: UMad9d2PC2cDIEMRmYWXyeetrd4GK1nIv6D4IVisU3I=
+Modified: 638084414991599003

@@ -1,0 +1,23 @@
+﻿---
+ID: "c7499db7-9358-467f-8f40-935645f0bcd9"
+Parent: "9ad369fd-613b-41da-92b8-da66b485aad9"
+Template: "af3cd129-f9e8-40f3-a047-8a7b60f5a505"
+Path: "/sitecore/content/demo-tenant/Novena/Data/Contact Items"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221230T151530Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9bc4917-e0e8-4dd5-98ff-9b5a9575eb9d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221230T151530Z

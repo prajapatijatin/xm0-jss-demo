@@ -1,0 +1,42 @@
+{
+  "namespace": "Demo.Novena.Project.Web",
+  "items": {
+    "includes": [
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Tenant.Templates",
+        "path": "/sitecore/templates/Project/demo-tenant",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Tenant.Renderings",
+        "path": "/sitecore/layout/Renderings/Project/demo-tenant",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createOnly",
+        "database": "master",
+        "name": "Settings.Novena.Key",
+        "path": "/sitecore/system/Settings/Services/API Keys/Novena",
+        "scope": "singleItem"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Tenant.Layouts",
+        "path": "/sitecore/layout/Layouts/Project/Novena",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Tenant.Placeholders",
+        "path": "/sitecore/layout/Placeholder Settings/Project/demo-tenant",
+        "scope": "itemAndDescendants"
+      }
+    ]
+  }
+}

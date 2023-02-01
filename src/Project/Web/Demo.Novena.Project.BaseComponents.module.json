@@ -1,0 +1,21 @@
+{
+  "namespace": "Demo.Novena.BaseComponents",
+  "items": {
+    "includes": [
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Templates",
+        "path": "/sitecore/templates/Feature/Base Components",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Renderings",
+        "path": "/sitecore/layout/Renderings/Feature/Base Components",
+        "scope": "itemAndDescendants"
+      }
+    ]
+  }
+}

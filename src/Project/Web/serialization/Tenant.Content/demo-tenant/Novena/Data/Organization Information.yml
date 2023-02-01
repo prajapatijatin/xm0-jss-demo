@@ -1,0 +1,51 @@
+﻿---
+ID: "27764f1e-6044-4586-8d68-6d053739693d"
+Parent: "9ad369fd-613b-41da-92b8-da66b485aad9"
+Template: "43cf1106-84b1-4a9c-952c-31da10a33e0c"
+Path: "/sitecore/content/demo-tenant/Novena/Data/Organization Information"
+Languages:
+- Language: en
+  Fields:
+  - ID: "487fbd07-65d3-4366-83a4-3b8d3047ea75"
+    Hint: Logo
+    Value: |
+      <image mediaid="{86B2D00C-0AE6-481F-A35D-BD5392491BB7}" alt="Novena" height="" width="" hspace="" vspace="" ></image>
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "14daeed1-e4ad-4321-930a-58415a4571f8"
+      Hint: Address
+      Value: "Ta-134/A, New York, USA"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221227T074645Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6c798617-af80-43d1-880c-0d71ff782937"
+      Hint: PhoneNumber
+      Value: "823-4565-13456"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8200c417-5dd3-4062-a66c-8df49a179a05"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cf96ebde-83fc-43d4-b89a-904304710e7a"
+      Hint: Email
+      Value: support@novena.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230106T165345Z
+    - ID: "f7ba9567-49b1-41ba-b78e-3c0c144669e0"
+      Hint: AboutOrganization
+      Value: Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos obcaecati tenetur veritatis eveniet distinctio possimus.

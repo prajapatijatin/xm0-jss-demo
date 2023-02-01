@@ -1,0 +1,39 @@
+﻿---
+ID: "048d234f-9e9a-4b25-9211-dfb75435b7b9"
+Parent: "bae5b3fa-84d3-4d2b-ae1e-51fd92f76b10"
+Template: "0c964b94-9b84-4c32-9fd9-02a94cace7fa"
+Path: "/sitecore/content/demo-tenant/Novena/Presentation/Page Designs"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7bB8CF018D-3200-44D6-B27C-C1E16A235DB8%7d%3d%257B31F00174-98BE-4C66-AA6A-1234742BF45C%257D%26%7b51F88703-1880-4E9D-8BC9-B0DA310CA074%7d%3d%257B31F00174-98BE-4C66-AA6A-1234742BF45C%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221226T102012Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2be04cd9-40e2-49c7-84b1-0f6686b231de"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230102T062100Z

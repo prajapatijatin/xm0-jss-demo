@@ -1,0 +1,35 @@
+﻿---
+ID: "fb94e64a-02a3-4d6d-bebe-d39d0ef425fc"
+Parent: "136cbc69-26b6-4899-9956-fce53d49db5e"
+Template: "22887c44-135d-420b-be09-38cdd6ec9f88"
+Path: "/sitecore/content/demo-tenant/Novena/Data/Partners/Retrodesign"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221229T151518Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "24805a9b-5dd2-47e8-a757-12a5f0ec2d6a"
+    - ID: "ab852adc-478a-45b5-9957-14d6e497bf84"
+      Hint: PartnerLogo
+      Value: |
+        <image mediaid="{608462A9-0378-49F1-A65B-FAAC304DE151}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221229T162947Z

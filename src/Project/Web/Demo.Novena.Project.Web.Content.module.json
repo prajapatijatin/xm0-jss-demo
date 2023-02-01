@@ -1,0 +1,27 @@
+{
+  "namespace": "Demo.Novena.Project.Web.Content",
+  "references": [
+    "Demo.Feature.Identity",
+    "Demo.Novena.BaseComponents",
+    "Demo.Novena.Foundation.Multisite",
+    "Demo.Novena.Project.Web"
+  ],
+  "items": {
+    "includes": [
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Tenant.Content",
+        "path": "/sitecore/content/demo-tenant",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Tenant.Media",
+        "path": "/sitecore/media library/Project/demo-tenant",
+        "scope": "itemAndDescendants"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "namespace": "Demo.Novena.SXA.Module.Novena",
+  "items": {
+    "includes": [
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Module.Novena.Templates",
+        "path": "/sitecore/templates/Feature/Novena",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Module.Novena.Settings",
+        "path": "/sitecore/system/Settings/Feature/Novena",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Module.Novena.Renderings",
+        "path": "/sitecore/layout/Renderings/Feature/Novena",
+        "scope": "itemAndDescendants"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+﻿---
+ID: "3453ef26-08d6-4f3c-869a-5c3a2e03407d"
+Parent: "d7e9afeb-bb24-494d-bae4-b50ab41e9900"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/demo-tenant/Novena/Partners/5"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/3453EF2608D64F3C869A5C3A2E03407D.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 240
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "3f5a1eb8-063e-4474-a5e7-80f09c127379"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAPAAAAB9CAMAAACrpR6mAAAAgVBMVEUAAAC6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2W6p2WSwx9zAAAAKnRSTlMABgv11qrdV3HrJfuEty2NfbFdRTMWdpc60KOdY8PJ72q9GuFREh/mP0uj3TSwAAAIXElEQVR42uzBgQAAAACAoP2pF6kCAAAAAAAAgNmvs+1EgSgKw5tiUuYwCI4oiuJ+/wdsqLIE07EvSXevfDeBBF3rz6kC/fHjx4//lcjdVdxL0q7Af69JNw6fluEqwv8s39b87HTBO8Z4JI3HX1yBv09k80v7Dl9oY2t5O2XoXde1Wde1vwdwd2rTNG/bBr10uYCSn2NIzXkLJbA8DArrgm+x8vnGAr/rTH97TNYsAUQMV0EQxEcAR5ZJkGxYXwEsyBbSB+1HJulBKmnJsV95xDdo9nznZuCY4lXEk0DPjeVJB+1oqrH5pyHYpBpsRXODQWsm1iM99imH3XCH+VVnvpUA289TXt9e6i+T4OaxXlogsWIW8vKTHWKQECsKDDb7FdPvCu5MvuU3QEmuXgfsvpx1vwWnQ2lyFv4WQMeoPGGwtFE83so+4MDr9wTnPt+zAdifdvLRLzDy/I9V0LvKYIFBeAaQmEjYAtYaHzL4wgiwaxVsoaUDXOcPbm78gwxASHI61IXfQurCAvBM/7Zc1stKBntCiGvJnQo2uEXFDicZbIUACqaPYNxZopg/eM8/WKN3YM/0oHV6Eae8qgWun74uzT6d5goy2EDA9mQB4RAcMcirKqoPOhgxO8wenPBPdgDaMwcHaMZyD+luyuAM2s6PkyThBipYwKgtv3oEl/QpRToYlp8vZw72+MqybYtPSwHgalI6QrswmE44+/RYynjRwVhwDxXcMI66rquqZfgMvvJmupiVzanDxQAM95mcoJfr+gJa0l8ZVQEdMQQnUZ7nVS6Ao9+oN20BBL4AxH6IP+2BmIZ+8RWwHQwu5AVzyjkVQDE2kwHjPvmzdndImrGQd2kq+TNYmCdDBUsyWHALpWUJfDiQSrqY04YTKZ6CyS+OfLgJjKJ7pU6NPFMEUORqik1mAE0OzfMgOoGHKAe8CEpVYEaFyZGLidShGeh4LcW/bvd6Q27j0MOD6PShTe0D/zr7Zf/mFukU+GxNbdni3yZu1Gygq7+cYlPzKcPAyFy3waBw3Q4whCEJA2ivTU9AMoQwIHn3Sw5NCCjyFXOKqDkCef3199+MoxUGoiZtvUIcwHWUcwDE9fAx07EzdS93AvSq0CS5TlWe7TgJBrnjbDErl1qO4kzFj/BiwdFWBZ9J33s8kdaT23g4ue3HAFJyo34ogf4H1i16HbnHrI6Tye2prY03+1yvd+GQLAGUlME7MnTTNN1VwJYs3bRUK8UlS7WO7C5amWpHfDyXUUWGmNVi7Ihf5zgyzhztx2CzQWHq4HEfbCmzXJ918QjeqDmjkr0eubFofU/witKtQMapI0YVJw46+OAwQULn8JzwbrdLhQx20QvJiwo2znL9azH9IiHv3xmcyV05leEp4MRGB8crWl4fHf9i10x724ZhMEzL933FlxxfsRMv/P8/cBNlZTbaDcOAJcWQ50PRxgf6gnxFSowUvOEpwfTYKAVfdXQ1UBQDcrjoGL5QcAwQ41DtvarXx4xW5EpwVfhooF9Um+ChMQyrvynBZO/sZ4Rvexedi+uEeHqF4HHzZYRWdIylnh97MeV1JdgEkwJuboLjnYeXbSGPNg+bW2Z4JwDNQBxc16cL9dN7t0wY+ALQIZnM+HgcXewDrHsPwSl5+wTpJjjYCT5rWhSSFlvpQl57o6t/A3vXtYkLU1FcvAKeRYQ4UGqVx7JM9NmFRf1xLdsJhkZoVYLXru/7piXBrmH4iNZFCYaEyjtVvw79ReyeOaIjBPvr6g4VPI0gjQCgd0Fi4IHB0PGzasV84QMv80RurLvWZHhUbb0tpB9MyiR6cXOGu6psEaKvnR7F7rl4j9At+BtCUGjnclFPlBlAVDpEaQPk9HvmyTc75bbM5Y4jtsjfyvIExLlMGNseu8NziX1t11X9ivQrTgD/jrkFRWHhLwjgvyHya4Bb0NqUhDN+RvNPso7BS3BWgNuq9n6XED8wlww+cF6kSwsQ1KMmPW2TyccaJDVNYWx5MS+DJAiyKxCLyeOX2KRVWwdd/u9Zh3tc02ZquH887mS04CXb+OJEtyCX9W1+LAqr67qoU4b0OIs/pD2yMM8r8xWKW0ctVp4Sk5i9Nc+WMbXJ/QIbEcVJYVo+STUM8r4rhd+l7t7ABYjQEKcepx49OVtijEWVqOKML058bc/wfJJ8azl6IYhdNTgEVGEb0aGUnWJd9sZX8dNoaQrFLbnF90JjE9wDoXMh2FTVL4EoiDnTzhU8n/xGYxGcRBDK2bWatHJyDw54HLNDWuhwQxvUuLNrC1/E1o0pwI0KNYSNijQANClIuK+x9l61LHbg2ahI3qLjpMm3pqpcoqu44WZzHWPYwYQPewqn0QEw14Y1BqixppfYAEN6EGxMe8E15lCaUZ6EV3gF3v6Q68jaTx01mCbscbBQhi2RweIyyuZ4pei79HGxS+kMs73gQh9FW8tTD16Blpk1SLI/7LNW8p6VUk4vYIYAi1+AIT6++iO5llKCD0kQJCZy2AmmHKDt4quIcVrY71pLDgdynMOuCxEL2ai5o0jrjNG5wYjN1E2hPOaocBCFyIGD4AALeC0L4sqdc4qfk8CRaTC7rptMMnbQfHPFupfycaa4W6m4mGKmPHx1K2nkVI0PObyaW4i/xMjhSIS2ais00Y3OJMR215iWgQiIfn54uKYHVFlafOsrjGwyAz+ihsBHGl95kUJsyIrF6JxK0xuQ3PH8+EYXxxPdmE7TNGNfwFdAGz+RPFTexxvT7GF+mi+YMmBJS734N9jgJUAZAJEKFzth/wOew5fhXh00u2n2NWLxD2H1GPM0DFOzKvMLvHnz5s2bN2++twcHAgAAAACC/K0n2KACAAAAAAAAYAXtnHFW9MDxWQAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 2392
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 240 x 125
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 125
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221229T163130Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: General Medical Award
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d36a823e-cd5b-401a-b518-93aafcb33181"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221229T163131Z

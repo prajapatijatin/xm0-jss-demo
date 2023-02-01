@@ -1,0 +1,46 @@
+﻿---
+ID: "5deceef6-ffed-4bed-b8fd-d15bdf467e81"
+Parent: "3e65585e-0ad7-4ac6-9085-79f492f33620"
+Template: "5587f7ba-b8c9-4457-be04-243b6efe4741"
+Path: "/sitecore/content/demo-tenant/Novena/Data/Partners List/Home Partners List"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221229T151455Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "605386a7-c91b-4695-9a3a-d9f75731d4ee"
+      Hint: Heading
+      Value: Partners who support us
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "00a43d62-812a-49cf-85c3-2380d960ee17"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221230T062111Z
+    - ID: "ed30287f-78cf-4458-97bd-5e2609dcf27a"
+      Hint: Description
+      Value: Lets know moreel necessitatibus dolor asperiores illum possimus sint voluptates incidunt molestias nostrum laudantium. Maiores porro cumque quaerat.
+    - ID: "f812af5e-69f5-4563-9845-966b1600e8a9"
+      Hint: Partners
+      Value: |
+        {669C6758-81FC-47F5-B7E9-440D079E6952}
+        {0171FAE0-0AC0-4529-8DED-B196567BD747}
+        {FB94E64A-02A3-4D6D-BEBE-D39D0EF425FC}
+        {CD5E0245-67EC-457C-BE92-48EC4C537D21}
+        {A2F58E51-F701-4763-BEB1-47071E945758}
+        {8B20734C-B96B-44EA-A163-2A1B4F2BA428}

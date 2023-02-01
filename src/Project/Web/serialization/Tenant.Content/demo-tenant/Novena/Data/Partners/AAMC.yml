@@ -1,0 +1,35 @@
+﻿---
+ID: "669c6758-81fc-47f5-b7e9-440d079e6952"
+Parent: "136cbc69-26b6-4899-9956-fce53d49db5e"
+Template: "22887c44-135d-420b-be09-38cdd6ec9f88"
+Path: "/sitecore/content/demo-tenant/Novena/Data/Partners/AAMC"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221229T151518Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7104d305-801a-408f-8950-e0214b290013"
+    - ID: "ab852adc-478a-45b5-9957-14d6e497bf84"
+      Hint: PartnerLogo
+      Value: |
+        <image mediaid="{21D502E1-165F-446F-8AA1-EDFF0C30822A}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221229T151700Z

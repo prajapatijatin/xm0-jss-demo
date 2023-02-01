@@ -1,0 +1,40 @@
+﻿---
+ID: "3f90d3bf-1996-4b83-97a0-8ae21f9b290c"
+Parent: "c7499db7-9358-467f-8f40-935645f0bcd9"
+Template: "9ea5c966-820e-4693-8798-2f5d80f3990c"
+Path: "/sitecore/content/demo-tenant/Novena/Data/Contact Items/Support Available"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221230T151539Z
+    - ID: "421b145f-f5c4-4461-b569-a7201bb8358f"
+      Hint: Text
+      Value: support@email.com
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "63501967-aea2-4833-9966-d9a2a567a511"
+      Hint: Label
+      Value: Support Available for 24/7
+    - ID: "894b4262-c3ed-474e-a15e-10ac739578c0"
+      Hint: Icon
+      Value: "icofont-email mr-3"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7b28e7e3-ce0d-4366-b7e5-57fd82faef28"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221230T151557Z

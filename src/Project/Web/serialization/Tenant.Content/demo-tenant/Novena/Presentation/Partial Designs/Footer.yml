@@ -1,0 +1,82 @@
+﻿---
+ID: "105ad32d-ba6a-4468-8520-c94fcdde03e7"
+Parent: "033583a0-1d22-421c-9416-b70560d3d968"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/demo-tenant/Novena/Presentation/Partial Designs/Footer"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        s:l="{A8816E37-CD1D-4A33-A3EB-030B3DDF4D19}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BDC93F66-66A0-4991-B6D7-8621F85E31DC}"
+              p:before="*"
+              s:ds="{27764F1E-6044-4586-8D68-6D053739693D}"
+              s:id="{6D1FEB86-FC72-49C7-8B94-A0C5C0FD542B}"
+              s:par=""
+              s:ph="novena-headless-footer-top"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{FAEE372E-DB04-40F0-96AB-C9E8895DDC3B}"
+              p:after="r[@uid='{BDC93F66-66A0-4991-B6D7-8621F85E31DC}']"
+              s:ds="{1F4FA79C-732B-4208-8203-126C69632FFF}"
+              s:id="{4956263D-1195-4D6E-931B-800EA625FF6F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B5962537B-77FE-4ED0-AC69-DA639E7A856D%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;DynamicPlaceholderId=1"
+              s:ph="novena-headless-footer-top" />
+            <r
+              uid="{3F5AF647-1E7A-409D-A713-5D49FD84E6F2}"
+              p:after="r[@uid='{FAEE372E-DB04-40F0-96AB-C9E8895DDC3B}']"
+              s:ds="{7506C9CC-6DAE-4D12-8797-8F12E3A14C76}"
+              s:id="{4956263D-1195-4D6E-931B-800EA625FF6F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B5962537B-77FE-4ED0-AC69-DA639E7A856D%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;DynamicPlaceholderId=2"
+              s:ph="novena-headless-footer-top" />
+            <r
+              uid="{4A6564FC-02F9-497E-A648-372A3FE51573}"
+              p:after="*[1=2]"
+              s:ds="{F8CEB954-4614-42A0-8C4D-8EF3A1CE182E}"
+              s:id="{A420B860-9F6E-4358-8367-560B6FA742C5}"
+              s:par=""
+              s:ph="novena-headless-footer-top"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221230T063037Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "86501617-7ab9-456a-9a65-8211630f03e0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230106T165345Z

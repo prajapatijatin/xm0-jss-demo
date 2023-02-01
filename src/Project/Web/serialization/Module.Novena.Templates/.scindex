@@ -1,0 +1,181 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Teasers Folder.yml
+ID: "b822545c-4d37-47a6-88f1-22cf51e8c808"
+Parent: "4a9b2411-35f2-4933-8e94-3c2e2acb3da4"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Novena/Teasers Folder
+Signature: 6XwvxXO6BzxpurR4/ALwZS6UxtGVTcbWBsn53AHS31E=
+Modified: 638086564138590793
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Teaser.yml
+ID: "f2758bdc-97d2-4d24-8abd-59ac8e1a1acb"
+Parent: "4a9b2411-35f2-4933-8e94-3c2e2acb3da4"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Novena/Teaser
+Signature: AwJhUK6zNGnw2dpI5EwLWs4TOJMqM3q2diZlCKUpOEg=
+Modified: 638086564138341898
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Teaser\Data.yml
+ID: "e1fd36d9-42bd-4b70-96ee-269ab6114e38"
+Parent: "f2758bdc-97d2-4d24-8abd-59ac8e1a1acb"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Novena/Teaser/Data
+Signature: gT3YDDkLXjK5SCxPIoF4ArOYVeMLTMjiyzabAMwZh+8=
+Modified: 638086564138782359
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Teaser\Data\Heading.yml
+ID: "b363a3b6-55c5-4495-8b6b-b00af9a08fd9"
+Parent: "e1fd36d9-42bd-4b70-96ee-269ab6114e38"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Novena/Teaser/Data/Heading
+Signature: TLgCxG+MGLl8WoLRfDbdDEz0WGfaO6skfufeubCS7ok=
+Modified: 638086564139543450
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Teaser\Data\Image.yml
+ID: "2e84e934-eb3f-4ab3-8f5d-8aef9b14ba1d"
+Parent: "e1fd36d9-42bd-4b70-96ee-269ab6114e38"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Novena/Teaser/Data/Image
+Signature: eVIVDzSIw51+uHzm6vWjg0MW1aoyUTOTUF1CjdDfsHs=
+Modified: 638086564139335337
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Teaser\Data\Link.yml
+ID: "70be6bc8-090e-4ff8-8f66-35d7d6d6df26"
+Parent: "e1fd36d9-42bd-4b70-96ee-269ab6114e38"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Novena/Teaser/Data/Link
+Signature: m6Ia2A1O4EBXH+MtRaFKKXeKHAWHP4YnwUC195yh46k=
+Modified: 638086564139669763
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Teaser\Data\TagLine.yml
+ID: "498aee1f-c69d-4006-a5ff-b5568c145787"
+Parent: "e1fd36d9-42bd-4b70-96ee-269ab6114e38"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Novena/Teaser/Data/TagLine
+Signature: IbGnYmcof0K4ATcGB5zmIvpWv6HaMbklClG7EiLfeVY=
+Modified: 638086564139609773
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Teaser Items Folder\__Standard Values.yml
+ID: "63ff011c-cb14-4bff-b7ec-9b5cb4026a6b"
+Parent: "0dfb92e0-6c0c-453d-a795-2fab049fe014"
+Template: "0dfb92e0-6c0c-453d-a795-2fab049fe014"
+Path: /sitecore/templates/Feature/Novena/Teaser Items Folder/__Standard Values
+Signature: hKm1v0qN4ILtxZvX7HKW2xjevxNruYuI4Ps57hSSpa0=
+Modified: 638086564138918023
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Teaser\Data\Text.yml
+ID: "cb5be0a9-f23b-469d-a07c-1d91a003285f"
+Parent: "e1fd36d9-42bd-4b70-96ee-269ab6114e38"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Novena/Teaser/Data/Text
+Signature: UKefN+HzJoLi6Io34/Gsh9mr4yhCAo27+1WZkMi8bUU=
+Modified: 638086564139413419
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Teasers\Data\Heading.yml
+ID: "36997298-ffa7-4ba7-b3f4-8fb83c6100b5"
+Parent: "f2752abd-e264-4d72-aa06-25a29f80035f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Novena/Teasers/Data/Heading
+Signature: jMP7wdxuwpPH2ngDYIxRBO67blIbggaEZAJYLWYXUPg=
+Modified: 638086564139758305
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Teasers\Data.yml
+ID: "f2752abd-e264-4d72-aa06-25a29f80035f"
+Parent: "15955fd0-c944-4d20-8e6d-de70f6312944"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Novena/Teasers/Data
+Signature: jWa1AL+bClqdCLUjIGbwwaUijiXx94RUocdOVorEL5w=
+Modified: 638086564139071232
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Teasers\Data\Text.yml
+ID: "ecd02c39-a044-49bc-97ec-f642821ce1ce"
+Parent: "f2752abd-e264-4d72-aa06-25a29f80035f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Novena/Teasers/Data/Text
+Signature: G3OafIHmnHwOvp34lVkgTHfu2JZjU17irS/dif+XWTw=
+Modified: 638086564139828517
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Teasers\Data\Items.yml
+ID: "c7cbb166-0a37-4241-bef0-9debbf8b184c"
+Parent: "f2752abd-e264-4d72-aa06-25a29f80035f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Novena/Teasers/Data/Items
+Signature: dOQwNuQLOi2KTG4kKu4nOuPNG7Mc2XrfHM5qYn+4qfI=
+Modified: 638086564139943700
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Teasers Folder\__Standard Values.yml
+ID: "779dc19a-e04f-4df4-9da9-7d3956df1617"
+Parent: "b822545c-4d37-47a6-88f1-22cf51e8c808"
+Template: "b822545c-4d37-47a6-88f1-22cf51e8c808"
+Path: /sitecore/templates/Feature/Novena/Teasers Folder/__Standard Values
+Signature: SDmsIPJpyIOEi2WEPiHN7owtebG+1L5IskP3PAtgdNw=
+Modified: 638086564139176704
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena.yml
+ID: "4a9b2411-35f2-4933-8e94-3c2e2acb3da4"
+Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Novena
+Signature: QXwRcwxyQkThedVL7KEhETdJ6z8AgixwxPW7R+fOpAM=
+Modified: 638086564138111915
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Teasers.yml
+ID: "15955fd0-c944-4d20-8e6d-de70f6312944"
+Parent: "4a9b2411-35f2-4933-8e94-3c2e2acb3da4"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Novena/Teasers
+Signature: mQeXk4MfxffyN3VsfCQtl82W2+QmoLmphptMYoylHfs=
+Modified: 638086564138520111
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Teaser Items Folder.yml
+ID: "0dfb92e0-6c0c-453d-a795-2fab049fe014"
+Parent: "4a9b2411-35f2-4933-8e94-3c2e2acb3da4"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Novena/Teaser Items Folder
+Signature: yL35vnvPj9S/hB1M68zWdp2kWsrcxi0C5Lcwl6Zi0/s=
+Modified: 638086564138416553
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Rendering Parameters\Teasers.yml
+ID: "e686e704-5d17-43e5-a4ce-88e1e1f02616"
+Parent: "1dd86e78-eca0-4826-ad8d-ad95cb92db41"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Novena/Rendering Parameters/Teasers
+Signature: Qor8yS18GXsT+JNmSgI19roX/V6I73KpCcNPkaWhlf0=
+Modified: 638086564138683699
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Rendering Parameters\Teasers\__Standard Values.yml
+ID: "a94780a6-184f-474c-8271-fb4db0fb0cbe"
+Parent: "e686e704-5d17-43e5-a4ce-88e1e1f02616"
+Template: "e686e704-5d17-43e5-a4ce-88e1e1f02616"
+Path: /sitecore/templates/Feature/Novena/Rendering Parameters/Teasers/__Standard Values
+Signature: YB/BykBOkJqCScEPyDKNruvi5Br4VHLXsXxnixoMB7A=
+Modified: 638086564139246544
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Templates\Novena\Rendering Parameters.yml
+ID: "1dd86e78-eca0-4826-ad8d-ad95cb92db41"
+Parent: "4a9b2411-35f2-4933-8e94-3c2e2acb3da4"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Novena/Rendering Parameters
+Signature: d7x9kKntAcWSkt9SDdTfXjqlmlXWrnFFCVyOlqPh0Mc=
+Modified: 638086564138255851

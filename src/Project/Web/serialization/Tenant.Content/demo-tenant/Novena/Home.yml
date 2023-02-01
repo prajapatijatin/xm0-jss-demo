@@ -1,0 +1,100 @@
+﻿---
+ID: "7f7040cb-c096-4183-9e0b-4bf5ae4b3e72"
+Parent: "4f724e62-31de-4c26-8c8f-3717a90f3200"
+Template: "b8cf018d-3200-44d6-b27c-c1e16a235db8"
+Path: "/sitecore/content/demo-tenant/Novena/Home"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{09590FD1-3829-4D88-BD22-29742300EE48}"
+              p:before="*"
+              s:ds="{3A30F6D0-72CA-405C-AEB9-09C8351CB789}"
+              s:id="{C4D576E5-DBD4-485C-AF0E-C424A3F82A78}"
+              s:par=""
+              s:ph="/headless-main/novena-jss-features-{0332CED7-CEA8-4501-96FA-9BFB0EE61CA4}-0"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{EA2490EA-49FE-4F68-A423-6C3088F3D746}"
+              p:after="r[@uid='{09590FD1-3829-4D88-BD22-29742300EE48}']"
+              s:ds="{0097D7CF-7518-4063-80C3-680210348E33}"
+              s:id="{C4D576E5-DBD4-485C-AF0E-C424A3F82A78}"
+              s:par=""
+              s:ph="/headless-main/novena-jss-features-{0332CED7-CEA8-4501-96FA-9BFB0EE61CA4}-0"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{DEA8264E-F7ED-490E-AB6E-4154520C49CD}"
+              p:after="r[@uid='{EA2490EA-49FE-4F68-A423-6C3088F3D746}']"
+              s:ds="{5971649A-21E8-40D2-A894-01E808ABE664}"
+              s:id="{C4D576E5-DBD4-485C-AF0E-C424A3F82A78}"
+              s:par=""
+              s:ph="/headless-main/novena-jss-features-{0332CED7-CEA8-4501-96FA-9BFB0EE61CA4}-0"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{5A3E968F-69FE-4FE1-94A0-4C50871CBA87}"
+              p:after="r[@uid='{DEA8264E-F7ED-490E-AB6E-4154520C49CD}']"
+              s:ds="{E906DA6E-E8BD-4E01-99EF-560CB42AE2E8}"
+              s:id="{5DC6A6D7-19D7-418C-AB84-7CE5C38AAF68}"
+              s:par=""
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{0332CED7-CEA8-4501-96FA-9BFB0EE61CA4}"
+              p:after="r[@uid='{5A3E968F-69FE-4FE1-94A0-4C50871CBA87}']"
+              s:id="{6B02D70F-59A7-4682-8114-628F63A6CC90}"
+              s:par="CacheClearingBehavior=Clear on publish"
+              s:ph="headless-main" />
+            <r
+              uid="{AA3FC394-45F6-45EF-859E-152D126932EF}"
+              p:after="*[1=2]"
+              s:ds="{5DECEEF6-FFED-4BED-B8FD-D15BDF467E81}"
+              s:id="{366D6EB6-F923-40D0-910B-B85CBBD3FE5B}"
+              s:par=""
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221226T102011Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Home
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8c5d4fbc-bc92-48e8-8df4-df41fe6b9c45"
+      Hint: Title
+      Value: Novena
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f7febeb-3175-423c-9cdb-7262bbc5125c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221229T152541Z

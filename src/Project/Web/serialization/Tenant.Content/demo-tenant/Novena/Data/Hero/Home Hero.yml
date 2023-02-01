@@ -1,0 +1,48 @@
+﻿---
+ID: "e906da6e-e8bd-4e01-99ef-560cb42ae2e8"
+Parent: "42882189-ae79-4494-a91e-a2d821152a25"
+Template: "773a06b0-9c6f-4469-85f1-764bce3e645d"
+Path: "/sitecore/content/demo-tenant/Novena/Data/Hero/Home Hero"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "174520fe-ad30-49d7-9560-0792f6cce3cd"
+      Hint: CTA
+      Value: |
+        <link text="Make appointment" anchor="" linktype="internal" class="" title=""  querystring="" id="{5F08F835-8B55-492D-B10E-6DA51690FC53}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221228T142224Z
+    - ID: "4bb51f3d-e5dc-4a04-8a13-3ade81535609"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{494B5CE2-E8C4-4BE9-9744-8BF482774029}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7c9fddc-288c-41c3-ab02-69e5d7c571ec"
+    - ID: "ba389c20-ce63-4653-9a9f-20a086b5b08f"
+      Hint: Heading
+      Value: Your most trusted health partner
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221228T145642Z
+    - ID: "eab8647b-a5b7-43ee-b613-f735365ffff7"
+      Hint: TagLine
+      Value: Total Health care solution
+    - ID: "fcd6e41b-5588-42e3-a30a-c0b67d5a0c1b"
+      Hint: Description
+      Value: A repudiandae ipsam labore ipsa voluptatum quidem quae laudantium quisquam aperiam maiores sunt fugit, deserunt rem suscipit placeat.

@@ -1,0 +1,60 @@
+﻿---
+ID: "2a0092c7-35a9-4215-a5b1-40acc882e795"
+Parent: "d7e9afeb-bb24-494d-bae4-b50ab41e9900"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/demo-tenant/Novena/Partners/2"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/2A0092C735A94215A5B140ACC882E795.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 240
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "2f69f0e7-73f4-4bec-b856-a8720e9420b6"
+  Value: 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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 4276
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 240 x 125
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 125
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221229T151636Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Global Health Awards 2016
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c64fae8-2561-4e3f-a495-a0915c501582"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221229T151649Z

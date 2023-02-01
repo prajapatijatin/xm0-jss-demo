@@ -1,0 +1,19 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Renderings\Novena\Teasers.yml
+ID: "67b7b6a2-9d3d-4792-be77-43c0bab43c0c"
+Parent: "0bad8df2-fa24-4456-967e-7943e5e0a96d"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Novena/Teasers
+Signature: H9bosFaYVQcK8WzBH/IsgL1FacQzQ1VYMLzr0EarHTQ=
+Modified: 638086565050291939
+---
+File: |
+  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Renderings\Novena.yml
+ID: "0bad8df2-fa24-4456-967e-7943e5e0a96d"
+Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/Novena
+Signature: i+w5NY92///UENjI9m4t62Ce3rOWkyGOawssidSg+Hk=
+Modified: 638086565050180605

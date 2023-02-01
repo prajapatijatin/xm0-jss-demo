@@ -1,0 +1,38 @@
+﻿---
+ID: "d6d7ca12-2f5a-4c91-b922-c4a8d938f2a5"
+Parent: "2a38d439-9310-4eb6-99de-297ab6f87199"
+Template: "f2758bdc-97d2-4d24-8abd-59ac8e1a1acb"
+Path: "/sitecore/content/demo-tenant/Novena/Data/Teaser Items/Doctor achievement - retrodesign"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T091528Z
+    - ID: "2e84e934-eb3f-4ab3-8f5d-8aef9b14ba1d"
+      Hint: Image
+      Value: |
+        <image mediaid="{608462A9-0378-49F1-A65B-FAAC304DE151}" ></image>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ac8383c-690c-4f1e-8a36-91e44edc67a4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230106T091835Z
