@@ -1,16 +1,7 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Settings\Novena\Novena Tenant Setup.yml
-ID: "db858b09-0dfe-42ab-8a09-f71891f15c79"
-Parent: "b9c4a385-8605-4817-a6e4-68735de5b34a"
-Template: "141df88e-7156-4d2e-a004-c8c1a7c51e9d"
-Path: /sitecore/system/Settings/Feature/Novena/Novena Tenant Setup
-Signature: KZPc0GveHKQexSOYEZ3HZo9sLAdKeHw4WD2+E9Ng8ns=
-Modified: 638086564143601446
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Settings\Novena\Novena Site Setup.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Module.Novena.Settings\Novena\Novena Site Setup.yml
 ID: "0f6db47c-c54b-49e0-8927-fa578b47f58d"
 Parent: "b9c4a385-8605-4817-a6e4-68735de5b34a"
 Template: "292ccfcd-7790-4692-856b-76014b8038e7"
@@ -19,25 +10,16 @@ Signature: 9fyjws9GlGxb7BsEB2IB2FiRuBmJqayIpqD9Nx0lSmM=
 Modified: 638086564143541436
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Settings\Novena\Novena Site Setup\Add Available Renderings.yml
-ID: "849bdfda-2e21-447f-9c5b-3bc96864ce0e"
-Parent: "0f6db47c-c54b-49e0-8927-fa578b47f58d"
-Template: "ea8a3f26-9ccd-443a-95f5-71b868a94bd0"
-Path: /sitecore/system/Settings/Feature/Novena/Novena Site Setup/Add Available Renderings
-Signature: en7eWVGm9/LB/rFhQHqBPgE+Y0wzpryKvSYuZT81SCY=
-Modified: 638086564143678124
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Module.Novena.Settings\Novena\Novena Tenant Setup.yml
+ID: "db858b09-0dfe-42ab-8a09-f71891f15c79"
+Parent: "b9c4a385-8605-4817-a6e4-68735de5b34a"
+Template: "141df88e-7156-4d2e-a004-c8c1a7c51e9d"
+Path: /sitecore/system/Settings/Feature/Novena/Novena Tenant Setup
+Signature: KZPc0GveHKQexSOYEZ3HZo9sLAdKeHw4WD2+E9Ng8ns=
+Modified: 638086564143601446
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Settings\Novena\Novena Site Setup\Add Teaserss Data Item.yml
-ID: "82923c59-12d4-4ab6-9a57-50d4bfac4eff"
-Parent: "0f6db47c-c54b-49e0-8927-fa578b47f58d"
-Template: "ea8a3f26-9ccd-443a-95f5-71b868a94bd0"
-Path: /sitecore/system/Settings/Feature/Novena/Novena Site Setup/Add Teaserss Data Item
-Signature: NMMLEgOmQApPfQoVg0T1TKj5DNgUBbO5FjMNbP9CGUY=
-Modified: 638086564143728120
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Settings\Novena.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Module.Novena.Settings\Novena.yml
 ID: "b9c4a385-8605-4817-a6e4-68735de5b34a"
 Parent: "256655ec-8f3a-45b5-ad90-b63bc25b8067"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
@@ -46,19 +28,37 @@ Signature: ge9YuoT2ex1wFtg9wnXoWMPitykcLRNipC2mgjVzhe4=
 Modified: 638086564143419320
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Settings\Novena\Novena Site Setup\Rendering Variants\Teasers.yml
-ID: "1e533607-65b5-41fc-8d4c-26593e9cdfa2"
-Parent: "617422ea-11c1-4025-9133-62c3f0a64b7f"
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Module.Novena.Settings\Novena\Novena Site Setup\Add Teaserss Data Item.yml
+ID: "82923c59-12d4-4ab6-9a57-50d4bfac4eff"
+Parent: "0f6db47c-c54b-49e0-8927-fa578b47f58d"
 Template: "ea8a3f26-9ccd-443a-95f5-71b868a94bd0"
-Path: /sitecore/system/Settings/Feature/Novena/Novena Site Setup/Rendering Variants/Teasers
-Signature: /nSPfBn8x1sTn/J9iIP7um3TKhQoaWRtYduKTYzkdcE=
-Modified: 638086564143857560
+Path: /sitecore/system/Settings/Feature/Novena/Novena Site Setup/Add Teaserss Data Item
+Signature: NMMLEgOmQApPfQoVg0T1TKj5DNgUBbO5FjMNbP9CGUY=
+Modified: 638086564143728120
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Module.Novena.Settings\Novena\Novena Site Setup\Rendering Variants.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Module.Novena.Settings\Novena\Novena Site Setup\Rendering Variants.yml
 ID: "617422ea-11c1-4025-9133-62c3f0a64b7f"
 Parent: "0f6db47c-c54b-49e0-8927-fa578b47f58d"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
 Path: /sitecore/system/Settings/Feature/Novena/Novena Site Setup/Rendering Variants
 Signature: 3w6lf3TKN0B8rhTE3JaMfXGzdRlFwSNxg3tHmnjRHXk=
 Modified: 638086564143788130
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Module.Novena.Settings\Novena\Novena Site Setup\Add Available Renderings.yml
+ID: "849bdfda-2e21-447f-9c5b-3bc96864ce0e"
+Parent: "0f6db47c-c54b-49e0-8927-fa578b47f58d"
+Template: "ea8a3f26-9ccd-443a-95f5-71b868a94bd0"
+Path: /sitecore/system/Settings/Feature/Novena/Novena Site Setup/Add Available Renderings
+Signature: en7eWVGm9/LB/rFhQHqBPgE+Y0wzpryKvSYuZT81SCY=
+Modified: 638086564143678124
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Module.Novena.Settings\Novena\Novena Site Setup\Rendering Variants\Teasers.yml
+ID: "1e533607-65b5-41fc-8d4c-26593e9cdfa2"
+Parent: "617422ea-11c1-4025-9133-62c3f0a64b7f"
+Template: "ea8a3f26-9ccd-443a-95f5-71b868a94bd0"
+Path: /sitecore/system/Settings/Feature/Novena/Novena Site Setup/Rendering Variants/Teasers
+Signature: /nSPfBn8x1sTn/J9iIP7um3TKhQoaWRtYduKTYzkdcE=
+Modified: 638086564143857560

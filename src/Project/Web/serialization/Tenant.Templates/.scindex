@@ -1,43 +1,7 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Headless Site.yml
-ID: "153e1b64-7e33-4d50-8ded-a8ae896710c7"
-Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: "/sitecore/templates/Project/demo-tenant/Headless Site"
-Signature: 9wqJiR/n9/Q8Aj/4bwTPOCWKc8/32aSLtz0vXBFnvxk=
-Modified: 638084412814586053
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Home\Content\Title.yml
-ID: "8c5d4fbc-bc92-48e8-8df4-df41fe6b9c45"
-Parent: "33b19fd9-ba16-4460-8d45-4a1898ce3d99"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Project/demo-tenant/Home/Content/Title"
-Signature: oeMx2Jg1KuEWU4qYG3A7+nUdMNzeIWWpT7M3uvcgIZ0=
-Modified: 638084412816001825
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant.yml
-ID: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
-Parent: "825b30b4-b40b-422e-9920-23a1b6bda89c"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: "/sitecore/templates/Project/demo-tenant"
-Signature: E5uG7Glt3hj7r2TsaoqP4pxuNeejG+WYOIJ+sqZrfhk=
-Modified: 638084412814409473
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Home.yml
-ID: "b8cf018d-3200-44d6-b27c-c1e16a235db8"
-Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: "/sitecore/templates/Project/demo-tenant/Home"
-Signature: 1BYNZZlOvIwmFZWTuuoi6NxbnYqDRlyCswwsd9USB/4=
-Modified: 638084412814676047
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Content Page.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Content Page.yml
 ID: "51f88703-1880-4e9d-8bc9-b0da310ca074"
 Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
@@ -46,79 +10,25 @@ Signature: kWtmY7Y6yAX4HCg0miKIqB9zoYQOHL3i9yjIHsDnR3g=
 Modified: 638084412814490033
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Page Design Folder.yml
-ID: "cd679c4f-2601-4977-adf3-2636fec6bc00"
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Headless Site.yml
+ID: "153e1b64-7e33-4d50-8ded-a8ae896710c7"
 Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: "/sitecore/templates/Project/demo-tenant/Page Design Folder"
-Signature: /PGVgCC9IGl8A3z33xmiJzjqb5D8jNvanjFNPRDPjWc=
-Modified: 638084412814792998
+Path: "/sitecore/templates/Project/demo-tenant/Headless Site"
+Signature: 9wqJiR/n9/Q8Aj/4bwTPOCWKc8/32aSLtz0vXBFnvxk=
+Modified: 638084412814586053
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Content Types.yml
-ID: "3e1a284b-3b16-42be-978b-479fb4c5dd86"
-Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: "/sitecore/templates/Project/demo-tenant/Content Types"
-Signature: CR8aJLcRoLvCDXoYIz80w05XalxAezUQBIdbwKxy6t0=
-Modified: 638084412814545923
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Page Types.yml
-ID: "8999c4c8-e863-409b-81ae-32fd028c597a"
-Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: "/sitecore/templates/Project/demo-tenant/Page Types"
-Signature: 1vFbwmatbIF0qghWgMOyFxs9V8FYx9Su0yuucMF64FA=
-Modified: 638084412814873951
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Headless Tenant.yml
-ID: "97f35a4e-bae4-42d6-9db2-a653bf3b90e8"
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Home.yml
+ID: "b8cf018d-3200-44d6-b27c-c1e16a235db8"
 Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: "/sitecore/templates/Project/demo-tenant/Headless Tenant"
-Signature: LILKhi75VzDJEb4BLxW+THJUqEfy7g4M7LbLaxQGJTc=
-Modified: 638084412814636027
+Path: "/sitecore/templates/Project/demo-tenant/Home"
+Signature: 1BYNZZlOvIwmFZWTuuoi6NxbnYqDRlyCswwsd9USB/4=
+Modified: 638084412814676047
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Partial Designs.yml
-ID: "0a816968-b1e2-4d42-9c90-e79c8f2a7a90"
-Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: "/sitecore/templates/Project/demo-tenant/Partial Designs"
-Signature: ypyC+z9YOwaUQs0/UxjFY8IWSA9JmEkAY/wsfD6SYB4=
-Modified: 638084412815003972
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\JSS Settings.yml
-ID: "03094fdd-35d5-41ca-b6b1-62b4a6612108"
-Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: "/sitecore/templates/Project/demo-tenant/JSS Settings"
-Signature: Scz5/wB+x8MAgE3XaeQt0TFHK2R41h9JNwaVoEAwiwM=
-Modified: 638084412814748288
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\JSS Settings\__Standard Values.yml
-ID: "0deb37e3-0385-4109-8682-bf104b25e3f0"
-Parent: "03094fdd-35d5-41ca-b6b1-62b4a6612108"
-Template: "03094fdd-35d5-41ca-b6b1-62b4a6612108"
-Path: "/sitecore/templates/Project/demo-tenant/JSS Settings/__Standard Values"
-Signature: QL+LMLyrjDKn8EGhM3av9F5X0fyOD45lENhJ9AkOUPw=
-Modified: 638084412815548912
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Page Designs.yml
-ID: "0c964b94-9b84-4c32-9fd9-02a94cace7fa"
-Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: "/sitecore/templates/Project/demo-tenant/Page Designs"
-Signature: sYgWLI39xDLIOzShMfVtZnMJHM8yoD1wXHPsDsMY190=
-Modified: 638084412814834508
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Page Design Folder\__Standard Values.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Page Design Folder\__Standard Values.yml
 ID: "2d0418fa-1320-44b4-89db-6c653c667f1f"
 Parent: "cd679c4f-2601-4977-adf3-2636fec6bc00"
 Template: "cd679c4f-2601-4977-adf3-2636fec6bc00"
@@ -127,70 +37,7 @@ Signature: s8Dqp2FhIyp3E+ej5o/k6k288AW4tUUtLLq5+/QjVKs=
 Modified: 638084412815608926
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Partial Design Folder.yml
-ID: "81a93b68-87e0-4872-838c-b105ad62c8ce"
-Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: "/sitecore/templates/Project/demo-tenant/Partial Design Folder"
-Signature: ru2sgUfUlu8amHuDcmTxqsjKQlk68UwaH741SA6B07k=
-Modified: 638084412814914013
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Page Designs\__Standard Values.yml
-ID: "21a7f6c7-e301-4bca-baf6-af50ddc44049"
-Parent: "0c964b94-9b84-4c32-9fd9-02a94cace7fa"
-Template: "0c964b94-9b84-4c32-9fd9-02a94cace7fa"
-Path: "/sitecore/templates/Project/demo-tenant/Page Designs/__Standard Values"
-Signature: gjR9qmMA/iOuCyVL976JKOlkQY1tNMgrDYbzAmn4TCk=
-Modified: 638084412815663512
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Content Page\Content.yml
-ID: "a8a6951c-e85d-4541-ba00-68706a694c9e"
-Parent: "51f88703-1880-4e9d-8bc9-b0da310ca074"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: "/sitecore/templates/Project/demo-tenant/Content Page/Content"
-Signature: J75Vgcmb/orZNhT0UQQO8gHfLL8ngVtQ/1xsw99K1HI=
-Modified: 638084412815083975
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Partial Design Folder\__Standard Values.yml
-ID: "fcfd4d62-6314-4da7-8b60-bb6e2f3d51c1"
-Parent: "81a93b68-87e0-4872-838c-b105ad62c8ce"
-Template: "81a93b68-87e0-4872-838c-b105ad62c8ce"
-Path: "/sitecore/templates/Project/demo-tenant/Partial Design Folder/__Standard Values"
-Signature: 0UhS1iYiIAhVP8nUR9IL55bss7jaHH7LLvQ59HkALUo=
-Modified: 638084412815743483
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Content Page\__Standard Values.yml
-ID: "afa3c711-d81e-4cb3-b0a3-caf015fad01d"
-Parent: "51f88703-1880-4e9d-8bc9-b0da310ca074"
-Template: "51f88703-1880-4e9d-8bc9-b0da310ca074"
-Path: "/sitecore/templates/Project/demo-tenant/Content Page/__Standard Values"
-Signature: YbKzU1qFL86t3FcxmlGvsxSSZI/dpAnvCnZ/GK0TLJs=
-Modified: 638086288813335793
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Partial Designs\__Standard Values.yml
-ID: "9743e8a8-6e62-44be-9a81-81f4ad2d8969"
-Parent: "0a816968-b1e2-4d42-9c90-e79c8f2a7a90"
-Template: "0a816968-b1e2-4d42-9c90-e79c8f2a7a90"
-Path: "/sitecore/templates/Project/demo-tenant/Partial Designs/__Standard Values"
-Signature: TvMkxCp+91VLGu+hlvFeWzmVKbtmzBVRxHTR3P3+8E4=
-Modified: 638084412815783482
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Home\Content\Content.yml
-ID: "e3983e13-aa37-4ac2-8e58-0b9425fd6dfd"
-Parent: "33b19fd9-ba16-4460-8d45-4a1898ce3d99"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Project/demo-tenant/Home/Content/Content"
-Signature: M8TxOwrH4tTZLXGUb//Ae0QUs0ozBm2coFTWBFzFF0w=
-Modified: 638084412816051548
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Content Page\Content\BackgroundImage.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Content Page\Content\BackgroundImage.yml
 ID: "5853d351-04e4-4b83-a483-5fbe8bcc59c6"
 Parent: "a8a6951c-e85d-4541-ba00-68706a694c9e"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
@@ -199,43 +46,151 @@ Signature: C4yETUmaHn9W3LRr6UmMNTS6UsnJ+tK/oU40wnAsEjw=
 Modified: 638084412815939551
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Home\Content.yml
-ID: "33b19fd9-ba16-4460-8d45-4a1898ce3d99"
-Parent: "b8cf018d-3200-44d6-b27c-c1e16a235db8"
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Home\Content\Content.yml
+ID: "e3983e13-aa37-4ac2-8e58-0b9425fd6dfd"
+Parent: "33b19fd9-ba16-4460-8d45-4a1898ce3d99"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/templates/Project/demo-tenant/Home/Content/Content"
+Signature: M8TxOwrH4tTZLXGUb//Ae0QUs0ozBm2coFTWBFzFF0w=
+Modified: 638084412816051548
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Page Design Folder.yml
+ID: "cd679c4f-2601-4977-adf3-2636fec6bc00"
+Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/templates/Project/demo-tenant/Page Design Folder"
+Signature: /PGVgCC9IGl8A3z33xmiJzjqb5D8jNvanjFNPRDPjWc=
+Modified: 638084412814792998
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant.yml
+ID: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
+Parent: "825b30b4-b40b-422e-9920-23a1b6bda89c"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: "/sitecore/templates/Project/demo-tenant"
+Signature: E5uG7Glt3hj7r2TsaoqP4pxuNeejG+WYOIJ+sqZrfhk=
+Modified: 638084412814409473
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Page Types.yml
+ID: "8999c4c8-e863-409b-81ae-32fd028c597a"
+Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: "/sitecore/templates/Project/demo-tenant/Page Types"
+Signature: 1vFbwmatbIF0qghWgMOyFxs9V8FYx9Su0yuucMF64FA=
+Modified: 638084412814873951
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Content Types.yml
+ID: "3e1a284b-3b16-42be-978b-479fb4c5dd86"
+Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: "/sitecore/templates/Project/demo-tenant/Content Types"
+Signature: CR8aJLcRoLvCDXoYIz80w05XalxAezUQBIdbwKxy6t0=
+Modified: 638084412814545923
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Partial Designs.yml
+ID: "0a816968-b1e2-4d42-9c90-e79c8f2a7a90"
+Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/templates/Project/demo-tenant/Partial Designs"
+Signature: ypyC+z9YOwaUQs0/UxjFY8IWSA9JmEkAY/wsfD6SYB4=
+Modified: 638084412815003972
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Headless Tenant.yml
+ID: "97f35a4e-bae4-42d6-9db2-a653bf3b90e8"
+Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/templates/Project/demo-tenant/Headless Tenant"
+Signature: LILKhi75VzDJEb4BLxW+THJUqEfy7g4M7LbLaxQGJTc=
+Modified: 638084412814636027
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Content Page\__Standard Values.yml
+ID: "afa3c711-d81e-4cb3-b0a3-caf015fad01d"
+Parent: "51f88703-1880-4e9d-8bc9-b0da310ca074"
+Template: "51f88703-1880-4e9d-8bc9-b0da310ca074"
+Path: "/sitecore/templates/Project/demo-tenant/Content Page/__Standard Values"
+Signature: YbKzU1qFL86t3FcxmlGvsxSSZI/dpAnvCnZ/GK0TLJs=
+Modified: 638086288813335793
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\JSS Settings.yml
+ID: "03094fdd-35d5-41ca-b6b1-62b4a6612108"
+Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/templates/Project/demo-tenant/JSS Settings"
+Signature: Scz5/wB+x8MAgE3XaeQt0TFHK2R41h9JNwaVoEAwiwM=
+Modified: 638084412814748288
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Headless Tenant\__Standard Values.yml
+ID: "dc871ebf-0821-4f19-b946-39f6866a737d"
+Parent: "97f35a4e-bae4-42d6-9db2-a653bf3b90e8"
+Template: "97f35a4e-bae4-42d6-9db2-a653bf3b90e8"
+Path: "/sitecore/templates/Project/demo-tenant/Headless Tenant/__Standard Values"
+Signature: kkn8gjDWpT6tAMn4ax4eW7caUHsF3JCMRMyVyMVTT00=
+Modified: 638084412815353843
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Page Designs.yml
+ID: "0c964b94-9b84-4c32-9fd9-02a94cace7fa"
+Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/templates/Project/demo-tenant/Page Designs"
+Signature: sYgWLI39xDLIOzShMfVtZnMJHM8yoD1wXHPsDsMY190=
+Modified: 638084412814834508
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\JSS Settings\__Standard Values.yml
+ID: "0deb37e3-0385-4109-8682-bf104b25e3f0"
+Parent: "03094fdd-35d5-41ca-b6b1-62b4a6612108"
+Template: "03094fdd-35d5-41ca-b6b1-62b4a6612108"
+Path: "/sitecore/templates/Project/demo-tenant/JSS Settings/__Standard Values"
+Signature: QL+LMLyrjDKn8EGhM3av9F5X0fyOD45lENhJ9AkOUPw=
+Modified: 638084412815548912
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Partial Design Folder.yml
+ID: "81a93b68-87e0-4872-838c-b105ad62c8ce"
+Parent: "926cd85d-dfaa-467c-8ee4-d8fb2202617b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/templates/Project/demo-tenant/Partial Design Folder"
+Signature: ru2sgUfUlu8amHuDcmTxqsjKQlk68UwaH741SA6B07k=
+Modified: 638084412814914013
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Partial Designs\__Standard Values.yml
+ID: "9743e8a8-6e62-44be-9a81-81f4ad2d8969"
+Parent: "0a816968-b1e2-4d42-9c90-e79c8f2a7a90"
+Template: "0a816968-b1e2-4d42-9c90-e79c8f2a7a90"
+Path: "/sitecore/templates/Project/demo-tenant/Partial Designs/__Standard Values"
+Signature: TvMkxCp+91VLGu+hlvFeWzmVKbtmzBVRxHTR3P3+8E4=
+Modified: 638084412815783482
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Content Page\Content.yml
+ID: "a8a6951c-e85d-4541-ba00-68706a694c9e"
+Parent: "51f88703-1880-4e9d-8bc9-b0da310ca074"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: "/sitecore/templates/Project/demo-tenant/Home/Content"
+Path: "/sitecore/templates/Project/demo-tenant/Content Page/Content"
 Signature: J75Vgcmb/orZNhT0UQQO8gHfLL8ngVtQ/1xsw99K1HI=
-Modified: 638084412815453967
+Modified: 638084412815083975
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Home\__Standard Values.yml
-ID: "c6b8ad25-cb95-4b82-92c8-cde819a54662"
-Parent: "b8cf018d-3200-44d6-b27c-c1e16a235db8"
-Template: "b8cf018d-3200-44d6-b27c-c1e16a235db8"
-Path: "/sitecore/templates/Project/demo-tenant/Home/__Standard Values"
-Signature: zfXrM790BgO+6XpN+xgCx97niFqL81u7foXjNf8LcP8=
-Modified: 638084412815498953
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Content Page\Content\Content.yml
-ID: "62c105be-d159-4819-94d5-5bf1ad42b4b1"
-Parent: "a8a6951c-e85d-4541-ba00-68706a694c9e"
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Home\Content\Title.yml
+ID: "8c5d4fbc-bc92-48e8-8df4-df41fe6b9c45"
+Parent: "33b19fd9-ba16-4460-8d45-4a1898ce3d99"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Project/demo-tenant/Content Page/Content/Content"
-Signature: SUw13/mIMQ5Id43wZ1ToxhMyD8XRn+/IT018XMvrOBs=
-Modified: 638084412815890347
+Path: "/sitecore/templates/Project/demo-tenant/Home/Content/Title"
+Signature: oeMx2Jg1KuEWU4qYG3A7+nUdMNzeIWWpT7M3uvcgIZ0=
+Modified: 638084412816001825
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Content Page\Content\Title.yml
-ID: "e3be3972-1804-40ef-9e06-ae2c9daeb61a"
-Parent: "a8a6951c-e85d-4541-ba00-68706a694c9e"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Project/demo-tenant/Content Page/Content/Title"
-Signature: JOfaJX8ZOVYtjwGHmhX3+6u/54mYPStUycN7pfLd1Qc=
-Modified: 638084412815839521
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Content Types\Identity.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Content Types\Identity.yml
 ID: "43cf1106-84b1-4a9c-952c-31da10a33e0c"
 Parent: "3e1a284b-3b16-42be-978b-479fb4c5dd86"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
@@ -244,7 +199,7 @@ Signature: Hks2Tx68wvYlziSA8MBpwRo6QUz3w+BeM3pftZJz0yg=
 Modified: 638084412815182198
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Headless Site\__Standard Values.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Headless Site\__Standard Values.yml
 ID: "f5965d37-a778-4051-8adc-1cf6fb03cb09"
 Parent: "153e1b64-7e33-4d50-8ded-a8ae896710c7"
 Template: "153e1b64-7e33-4d50-8ded-a8ae896710c7"
@@ -253,10 +208,55 @@ Signature: AydQbDwF7zg/EHUl1v/nIeWQkHN2gwpvBHP4b0Jc1BU=
 Modified: 638084412815292331
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Headless Tenant\__Standard Values.yml
-ID: "dc871ebf-0821-4f19-b946-39f6866a737d"
-Parent: "97f35a4e-bae4-42d6-9db2-a653bf3b90e8"
-Template: "97f35a4e-bae4-42d6-9db2-a653bf3b90e8"
-Path: "/sitecore/templates/Project/demo-tenant/Headless Tenant/__Standard Values"
-Signature: kkn8gjDWpT6tAMn4ax4eW7caUHsF3JCMRMyVyMVTT00=
-Modified: 638084412815353843
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Home\Content.yml
+ID: "33b19fd9-ba16-4460-8d45-4a1898ce3d99"
+Parent: "b8cf018d-3200-44d6-b27c-c1e16a235db8"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/demo-tenant/Home/Content"
+Signature: J75Vgcmb/orZNhT0UQQO8gHfLL8ngVtQ/1xsw99K1HI=
+Modified: 638084412815453967
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Home\__Standard Values.yml
+ID: "c6b8ad25-cb95-4b82-92c8-cde819a54662"
+Parent: "b8cf018d-3200-44d6-b27c-c1e16a235db8"
+Template: "b8cf018d-3200-44d6-b27c-c1e16a235db8"
+Path: "/sitecore/templates/Project/demo-tenant/Home/__Standard Values"
+Signature: zfXrM790BgO+6XpN+xgCx97niFqL81u7foXjNf8LcP8=
+Modified: 638084412815498953
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Page Designs\__Standard Values.yml
+ID: "21a7f6c7-e301-4bca-baf6-af50ddc44049"
+Parent: "0c964b94-9b84-4c32-9fd9-02a94cace7fa"
+Template: "0c964b94-9b84-4c32-9fd9-02a94cace7fa"
+Path: "/sitecore/templates/Project/demo-tenant/Page Designs/__Standard Values"
+Signature: gjR9qmMA/iOuCyVL976JKOlkQY1tNMgrDYbzAmn4TCk=
+Modified: 638084412815663512
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Partial Design Folder\__Standard Values.yml
+ID: "fcfd4d62-6314-4da7-8b60-bb6e2f3d51c1"
+Parent: "81a93b68-87e0-4872-838c-b105ad62c8ce"
+Template: "81a93b68-87e0-4872-838c-b105ad62c8ce"
+Path: "/sitecore/templates/Project/demo-tenant/Partial Design Folder/__Standard Values"
+Signature: 0UhS1iYiIAhVP8nUR9IL55bss7jaHH7LLvQ59HkALUo=
+Modified: 638084412815743483
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Content Page\Content\Content.yml
+ID: "62c105be-d159-4819-94d5-5bf1ad42b4b1"
+Parent: "a8a6951c-e85d-4541-ba00-68706a694c9e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/templates/Project/demo-tenant/Content Page/Content/Content"
+Signature: SUw13/mIMQ5Id43wZ1ToxhMyD8XRn+/IT018XMvrOBs=
+Modified: 638084412815890347
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Templates\demo-tenant\Content Page\Content\Title.yml
+ID: "e3be3972-1804-40ef-9e06-ae2c9daeb61a"
+Parent: "a8a6951c-e85d-4541-ba00-68706a694c9e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/templates/Project/demo-tenant/Content Page/Content/Title"
+Signature: JOfaJX8ZOVYtjwGHmhX3+6u/54mYPStUycN7pfLd1Qc=
+Modified: 638084412815839521

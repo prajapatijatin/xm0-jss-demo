@@ -1,19 +1,19 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Foundation\Multisite\serialization\Templates\Multisite\Site Settings.yml
-ID: "58a46b8b-2368-451f-81e1-712fbcdf2a8f"
-Parent: "afd88b8d-d679-4195-9d7a-0a2ee84e1b85"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Foundation/Multisite/Site Settings
-Signature: hLXp72sRWer6IZewUyXbiwxWgXfdBX9MHZdJQTPkqbc=
-Modified: 638084399118321933
----
-File: |
-  C:\jss\xm0-jss-demo\src\Foundation\Multisite\serialization\Templates\Multisite.yml
+  C:\jss\jss-demo-xm0\src\Foundation\Multisite\serialization\Templates\Multisite.yml
 ID: "afd88b8d-d679-4195-9d7a-0a2ee84e1b85"
 Parent: "b26bd035-8d0a-4df3-8f67-2de3c7fdd74a"
 Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
 Path: /sitecore/templates/Foundation/Multisite
 Signature: U5Rm1mTwP4PK1gukJuo3MiDPWZb9pCJPjkoF0n3GvMk=
 Modified: 638084399118260175
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Foundation\Multisite\serialization\Templates\Multisite\Site Settings.yml
+ID: "58a46b8b-2368-451f-81e1-712fbcdf2a8f"
+Parent: "afd88b8d-d679-4195-9d7a-0a2ee84e1b85"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Multisite/Site Settings
+Signature: hLXp72sRWer6IZewUyXbiwxWgXfdBX9MHZdJQTPkqbc=
+Modified: 638084399118321933

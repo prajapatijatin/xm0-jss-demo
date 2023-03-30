@@ -1,70 +1,7 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Feature\Identity\serialization\Templates\Identity\_Identity\Organization Contact Details\AboutOrganization.yml
-ID: "f7ba9567-49b1-41ba-b78e-3c0c144669e0"
-Parent: "c8fb67e6-dfad-4c32-9996-cf70c22e0460"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Identity/_Identity/Organization Contact Details/AboutOrganization
-Signature: Jd4qzKeE5Yo0Y0qxsrOljfrpEjj01dRRqwK2xvXwxcg=
-Modified: 638084397644949187
----
-File: |
-  C:\jss\xm0-jss-demo\src\Feature\Identity\serialization\Templates\Identity\_Identity\Organization Branding Details\Logo.yml
-ID: "487fbd07-65d3-4366-83a4-3b8d3047ea75"
-Parent: "e521dfb5-bc36-4391-bc6f-f57e40086661"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Identity/_Identity/Organization Branding Details/Logo
-Signature: Lg0vMZapmCsYpkGqIcJVy8ln7rbHIuYC9LHWrAy6ZuY=
-Modified: 638084397645009152
----
-File: |
-  C:\jss\xm0-jss-demo\src\Feature\Identity\serialization\Templates\Identity\_Identity\Organization Contact Details.yml
-ID: "c8fb67e6-dfad-4c32-9996-cf70c22e0460"
-Parent: "10315811-2d1e-4d10-86b7-e9b49a032cbe"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Feature/Identity/_Identity/Organization Contact Details
-Signature: jwsGc78yZ2OLX8VvQmhuWp4cHyOn9zG15XAVnfAUvS8=
-Modified: 638084397644683296
----
-File: |
-  C:\jss\xm0-jss-demo\src\Feature\Identity\serialization\Templates\Identity\_Identity\Organization Contact Details\PhoneNumber.yml
-ID: "6c798617-af80-43d1-880c-0d71ff782937"
-Parent: "c8fb67e6-dfad-4c32-9996-cf70c22e0460"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Identity/_Identity/Organization Contact Details/PhoneNumber
-Signature: L2IX+MEdXEzaU5nyX0lQahj/kzhpSkIM9wvksGPFSjM=
-Modified: 638084397644796703
----
-File: |
-  C:\jss\xm0-jss-demo\src\Feature\Identity\serialization\Templates\Identity\_Identity\Organization Contact Details\Address.yml
-ID: "14daeed1-e4ad-4321-930a-58415a4571f8"
-Parent: "c8fb67e6-dfad-4c32-9996-cf70c22e0460"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Identity/_Identity/Organization Contact Details/Address
-Signature: 7gSz/Vpw6+3xrzZVUQAYqyhwam6knYxvQy1LxbjqeHk=
-Modified: 638084397644899049
----
-File: |
-  C:\jss\xm0-jss-demo\src\Feature\Identity\serialization\Templates\Identity\_Identity\Organization Contact Details\Email.yml
-ID: "cf96ebde-83fc-43d4-b89a-904304710e7a"
-Parent: "c8fb67e6-dfad-4c32-9996-cf70c22e0460"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Identity/_Identity/Organization Contact Details/Email
-Signature: vrLYyoQ+vKQ8lwYVhpHnnmg/XJsbAIFG4+13lXhc6Po=
-Modified: 638084397644836654
----
-File: |
-  C:\jss\xm0-jss-demo\src\Feature\Identity\serialization\Templates\Identity\_Identity.yml
-ID: "10315811-2d1e-4d10-86b7-e9b49a032cbe"
-Parent: "cea0f4fe-324e-43b4-961d-f0cf198785df"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/Identity/_Identity
-Signature: +feYxdSd5IkRZqFv1k2jP7w+adeaComsRMhjJmThtNk=
-Modified: 638084397644629260
----
-File: |
-  C:\jss\xm0-jss-demo\src\Feature\Identity\serialization\Templates\Identity.yml
+  C:\jss\jss-demo-xm0\src\Feature\Identity\serialization\Templates\Identity.yml
 ID: "cea0f4fe-324e-43b4-961d-f0cf198785df"
 Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
 Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
@@ -73,10 +10,73 @@ Signature: Qdif2OIzW5FgeRiWr0HeYfslx4726ow9inHR4n3nWZ4=
 Modified: 638084397644555406
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Feature\Identity\serialization\Templates\Identity\_Identity\Organization Branding Details.yml
+  C:\jss\jss-demo-xm0\src\Feature\Identity\serialization\Templates\Identity\_Identity\Organization Branding Details.yml
 ID: "e521dfb5-bc36-4391-bc6f-f57e40086661"
 Parent: "10315811-2d1e-4d10-86b7-e9b49a032cbe"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
 Path: /sitecore/templates/Feature/Identity/_Identity/Organization Branding Details
 Signature: Nk+zbcxPADjhhSg2q6Up9KCI1L2nXntsjAQcOaf4AoA=
 Modified: 638084397644735712
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Feature\Identity\serialization\Templates\Identity\_Identity\Organization Branding Details\Logo.yml
+ID: "487fbd07-65d3-4366-83a4-3b8d3047ea75"
+Parent: "e521dfb5-bc36-4391-bc6f-f57e40086661"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Identity/_Identity/Organization Branding Details/Logo
+Signature: Lg0vMZapmCsYpkGqIcJVy8ln7rbHIuYC9LHWrAy6ZuY=
+Modified: 638084397645009152
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Feature\Identity\serialization\Templates\Identity\_Identity\Organization Contact Details\Address.yml
+ID: "14daeed1-e4ad-4321-930a-58415a4571f8"
+Parent: "c8fb67e6-dfad-4c32-9996-cf70c22e0460"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Identity/_Identity/Organization Contact Details/Address
+Signature: 7gSz/Vpw6+3xrzZVUQAYqyhwam6knYxvQy1LxbjqeHk=
+Modified: 638084397644899049
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Feature\Identity\serialization\Templates\Identity\_Identity.yml
+ID: "10315811-2d1e-4d10-86b7-e9b49a032cbe"
+Parent: "cea0f4fe-324e-43b4-961d-f0cf198785df"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Identity/_Identity
+Signature: +feYxdSd5IkRZqFv1k2jP7w+adeaComsRMhjJmThtNk=
+Modified: 638084397644629260
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Feature\Identity\serialization\Templates\Identity\_Identity\Organization Contact Details.yml
+ID: "c8fb67e6-dfad-4c32-9996-cf70c22e0460"
+Parent: "10315811-2d1e-4d10-86b7-e9b49a032cbe"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Identity/_Identity/Organization Contact Details
+Signature: jwsGc78yZ2OLX8VvQmhuWp4cHyOn9zG15XAVnfAUvS8=
+Modified: 638084397644683296
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Feature\Identity\serialization\Templates\Identity\_Identity\Organization Contact Details\AboutOrganization.yml
+ID: "f7ba9567-49b1-41ba-b78e-3c0c144669e0"
+Parent: "c8fb67e6-dfad-4c32-9996-cf70c22e0460"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Identity/_Identity/Organization Contact Details/AboutOrganization
+Signature: Jd4qzKeE5Yo0Y0qxsrOljfrpEjj01dRRqwK2xvXwxcg=
+Modified: 638084397644949187
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Feature\Identity\serialization\Templates\Identity\_Identity\Organization Contact Details\Email.yml
+ID: "cf96ebde-83fc-43d4-b89a-904304710e7a"
+Parent: "c8fb67e6-dfad-4c32-9996-cf70c22e0460"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Identity/_Identity/Organization Contact Details/Email
+Signature: vrLYyoQ+vKQ8lwYVhpHnnmg/XJsbAIFG4+13lXhc6Po=
+Modified: 638084397644836654
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Feature\Identity\serialization\Templates\Identity\_Identity\Organization Contact Details\PhoneNumber.yml
+ID: "6c798617-af80-43d1-880c-0d71ff782937"
+Parent: "c8fb67e6-dfad-4c32-9996-cf70c22e0460"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Identity/_Identity/Organization Contact Details/PhoneNumber
+Signature: L2IX+MEdXEzaU5nyX0lQahj/kzhpSkIM9wvksGPFSjM=
+Modified: 638084397644796703

@@ -1,34 +1,7 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Renderings\Base Components\Hero.yml
-ID: "5dc6a6d7-19d7-418c-ab84-7ce5c38aaf68"
-Parent: "1c8aee8f-f212-4638-813f-dbaf3efbafa7"
-Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: /sitecore/layout/Renderings/Feature/Base Components/Hero
-Signature: W04nVur5t8Xpq675CvWlMZChPaX+qv2AImMLzMpU5MQ=
-Modified: 638084400140294310
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Renderings\Base Components\PageTitleWithBackground.yml
-ID: "e7871019-6743-4c3d-9616-5be103a82564"
-Parent: "1c8aee8f-f212-4638-813f-dbaf3efbafa7"
-Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: /sitecore/layout/Renderings/Feature/Base Components/PageTitleWithBackground
-Signature: 6ezrKexj+aMKhuKa5KcfnIzuy76GL48F7B/4EKJl800=
-Modified: 638084400140350690
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Renderings\Base Components\PartnersList.yml
-ID: "366d6eb6-f923-40d0-910b-b85cbbd3fe5b"
-Parent: "1c8aee8f-f212-4638-813f-dbaf3efbafa7"
-Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: /sitecore/layout/Renderings/Feature/Base Components/PartnersList
-Signature: Uhu1lfDbDkY5NAykLOUpm+jqhfuAgibLBsELMkmfgQA=
-Modified: 638084400140390671
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Renderings\Base Components.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Renderings\Base Components.yml
 ID: "1c8aee8f-f212-4638-813f-dbaf3efbafa7"
 Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
 Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
@@ -37,7 +10,7 @@ Signature: C3l+5y9VEK7d0D8ZJmbmY9zj1kYLxJ7J+dfdvz/aFvA=
 Modified: 638084400140143136
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Renderings\Base Components\GetInTouch.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Renderings\Base Components\GetInTouch.yml
 ID: "a420b860-9f6e-4358-8367-560b6fa742c5"
 Parent: "1c8aee8f-f212-4638-813f-dbaf3efbafa7"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
@@ -46,7 +19,34 @@ Signature: D7Y5DzHbUp3Z6b2f2bJVe+AXLueR1GXaBAoNWiL2nR0=
 Modified: 638084400140248745
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Renderings\Base Components\Teaser.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Renderings\Base Components\Hero.yml
+ID: "5dc6a6d7-19d7-418c-ab84-7ce5c38aaf68"
+Parent: "1c8aee8f-f212-4638-813f-dbaf3efbafa7"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Base Components/Hero
+Signature: W04nVur5t8Xpq675CvWlMZChPaX+qv2AImMLzMpU5MQ=
+Modified: 638084400140294310
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Renderings\Base Components\PageTitleWithBackground.yml
+ID: "e7871019-6743-4c3d-9616-5be103a82564"
+Parent: "1c8aee8f-f212-4638-813f-dbaf3efbafa7"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Base Components/PageTitleWithBackground
+Signature: 6ezrKexj+aMKhuKa5KcfnIzuy76GL48F7B/4EKJl800=
+Modified: 638084400140350690
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Renderings\Base Components\PartnersList.yml
+ID: "366d6eb6-f923-40d0-910b-b85cbbd3fe5b"
+Parent: "1c8aee8f-f212-4638-813f-dbaf3efbafa7"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Base Components/PartnersList
+Signature: Uhu1lfDbDkY5NAykLOUpm+jqhfuAgibLBsELMkmfgQA=
+Modified: 638084400140390671
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Renderings\Base Components\Teaser.yml
 ID: "c4d576e5-dbd4-485c-af0e-c424a3f82a78"
 Parent: "1c8aee8f-f212-4638-813f-dbaf3efbafa7"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"

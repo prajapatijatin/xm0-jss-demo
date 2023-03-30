@@ -43,8 +43,8 @@ const NovenaLayout = ({ layoutData }: LayoutProps): JSX.Element => {
       </Head>
 
       {/* root placeholder for the app, which we add components to using route data */}
-      <header>{route && <Placeholder name="novena-headless-header" rendering={route} />}</header>
-      {route && <Placeholder name="novena-headless-main" rendering={route} />}
+      <header>{route && <Placeholder name="headless-header" rendering={route} />}</header>
+      {route && <Placeholder name="headless-main" rendering={route} />}
       <footer className="footer section gray-bg">
         <div className="container">
           <div className="row">

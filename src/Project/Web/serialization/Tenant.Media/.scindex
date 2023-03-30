@@ -1,61 +1,7 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant.yml
-ID: "acfdae69-e9a2-4d21-b838-47740441e225"
-Parent: "90ae357f-6171-4ea9-808c-5600b678f726"
-Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
-Path: "/sitecore/media library/Project/demo-tenant"
-Signature: SJ8MHNopa0U5gynBY7ZPugp647i2SnjgERy77yWqoW4=
-Modified: 638084416722564310
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\about-3.yml
-ID: "a7e0b1ca-b7e4-44e2-a34d-3e49aa606e61"
-Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
-Template: "daf085e8-602e-43a6-8299-038ff171349f"
-Path: "/sitecore/media library/Project/demo-tenant/Novena/about-3"
-Signature: vZ8ryHTXqzLa/OMZ/sQl8HTXy+36fQI0hBgJqbOZ1go=
-Modified: 638086288816244408
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Sitemaps.yml
-ID: "ffc3cf9b-7a82-438b-8415-cd8a680e361b"
-Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
-Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
-Path: "/sitecore/media library/Project/demo-tenant/Novena/Sitemaps"
-Signature: apgh68e3ncaVVjrnRoAYfG+ABV5I2w8rj9TlLwJOJm4=
-Modified: 638086288816582321
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\img-2.yml
-ID: "8823443d-c1aa-4406-b401-5e53e5e93cb4"
-Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
-Template: "daf085e8-602e-43a6-8299-038ff171349f"
-Path: "/sitecore/media library/Project/demo-tenant/Novena/img-2"
-Signature: hbOCMlnczKDRaTQ86KmEwn6N1cbLI+jufoh17H4Yzg4=
-Modified: 638086288816439399
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\logo.yml
-ID: "86b2d00c-0ae6-481f-a35d-bd5392491bb7"
-Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
-Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
-Path: "/sitecore/media library/Project/demo-tenant/Novena/logo"
-Signature: x8PLliR9vuXfvrTw4tg8KQ6WJhYdZvxUDSV5tp93g8Q=
-Modified: 638084416722812652
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\about-2.yml
-ID: "cf689310-3057-4c53-a2eb-8c37336c1793"
-Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
-Template: "daf085e8-602e-43a6-8299-038ff171349f"
-Path: "/sitecore/media library/Project/demo-tenant/Novena/about-2"
-Signature: oleN+N6W8ZK5zIyr9FW43h4udgtQZo/WGdv9r0Y608M=
-Modified: 638086288816196242
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\about-4.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\about-4.yml
 ID: "803fc0f4-69dd-4853-8704-d5c1e9f67883"
 Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
 Template: "daf085e8-602e-43a6-8299-038ff171349f"
@@ -64,115 +10,16 @@ Signature: pFyu1gM+5I0iznnj9ArxN9oCRLxiPBWT20NWOA4yJJ8=
 Modified: 638086288816311408
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\banner.yml
-ID: "602a4c6d-697f-4fb5-a423-0842621a3ff3"
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\img-2.yml
+ID: "8823443d-c1aa-4406-b401-5e53e5e93cb4"
 Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
 Template: "daf085e8-602e-43a6-8299-038ff171349f"
-Path: "/sitecore/media library/Project/demo-tenant/Novena/banner"
-Signature: z+iwfK1FJtFT2MVKok5UGXH6SV0AEJBEVhWRpt57VAg=
-Modified: 638084416722772657
+Path: "/sitecore/media library/Project/demo-tenant/Novena/img-2"
+Signature: hbOCMlnczKDRaTQ86KmEwn6N1cbLI+jufoh17H4Yzg4=
+Modified: 638086288816439399
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena.yml
-ID: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
-Parent: "acfdae69-e9a2-4d21-b838-47740441e225"
-Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
-Path: "/sitecore/media library/Project/demo-tenant/Novena"
-Signature: tn9WLzBnCegXsNe/h4WnJ3e6gt0n446r3qZq8Ie0wSM=
-Modified: 638084416722616818
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Partners.yml
-ID: "d7e9afeb-bb24-494d-bae4-b50ab41e9900"
-Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
-Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
-Path: "/sitecore/media library/Project/demo-tenant/Novena/Partners"
-Signature: 7g6Wik5GpMtO4uhiY8NhVHEPfED2+2tPFojtM06XavU=
-Modified: 638084416722852650
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\slider-bg-1.yml
-ID: "494b5ce2-e8c4-4be9-9744-8bf482774029"
-Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
-Template: "daf085e8-602e-43a6-8299-038ff171349f"
-Path: "/sitecore/media library/Project/demo-tenant/Novena/slider-bg-1"
-Signature: Fr2wxzS3zSdI/d6sEfKm5EqWnnCg73lMMBrxBklDZiw=
-Modified: 638084416722914732
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\img-1.yml
-ID: "10af07ec-9e1e-44a3-afd7-7db5a3bc9d35"
-Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
-Template: "daf085e8-602e-43a6-8299-038ff171349f"
-Path: "/sitecore/media library/Project/demo-tenant/Novena/img-1"
-Signature: IHrAffVJfBSz5kvQwDilEYT7rE+i6xKkQky6bhCQrnc=
-Modified: 638086288816377945
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\shared.yml
-ID: "0168dbba-d596-46a2-97c2-ade5920f4e66"
-Parent: "acfdae69-e9a2-4d21-b838-47740441e225"
-Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
-Path: "/sitecore/media library/Project/demo-tenant/shared"
-Signature: SJ8MHNopa0U5gynBY7ZPugp647i2SnjgERy77yWqoW4=
-Modified: 638084416722646818
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\sign.yml
-ID: "b4a058d7-1129-4338-b228-2ce3030fec4b"
-Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
-Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
-Path: "/sitecore/media library/Project/demo-tenant/Novena/sign"
-Signature: Me8sxA+GfmlgVmthmXTtf27gNy6+t4an0DEgnWkvVbc=
-Modified: 638086288816521705
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Partners\1.yml
-ID: "21d502e1-165f-446f-8aa1-edff0c30822a"
-Parent: "d7e9afeb-bb24-494d-bae4-b50ab41e9900"
-Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
-Path: "/sitecore/media library/Project/demo-tenant/Novena/Partners/1"
-Signature: sqwWL0bAK5/ENjcErDVVUZmE7DD/6Gdl6ylJ9MAr23M=
-Modified: 638084416722965239
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\22.yml
-ID: "dcfc2647-3313-44bd-a002-c65a82196876"
-Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
-Template: "daf085e8-602e-43a6-8299-038ff171349f"
-Path: "/sitecore/media library/Project/demo-tenant/Novena/22"
-Signature: nAMBFijHTmDfNv+FHKGAe7eH/AC+9ymjsypSN/Sii4I=
-Modified: 638084416722706817
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Partners\2.yml
-ID: "2a0092c7-35a9-4215-a5b1-40acc882e795"
-Parent: "d7e9afeb-bb24-494d-bae4-b50ab41e9900"
-Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
-Path: "/sitecore/media library/Project/demo-tenant/Novena/Partners/2"
-Signature: u71MLb+wxqVMJGhcYCU/sEOHhhFofAitwC10aVo17dI=
-Modified: 638084416723004759
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\about-1.yml
-ID: "8d684fa4-9974-4f28-bda3-aad494c01000"
-Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
-Template: "daf085e8-602e-43a6-8299-038ff171349f"
-Path: "/sitecore/media library/Project/demo-tenant/Novena/about-1"
-Signature: YzjRlkh6tC5c/X3CeVZTwmg6v3nWasqM0sRXmXonf5E=
-Modified: 638086288816122999
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Partners\3.yml
-ID: "2bd60661-1725-410f-8c44-1ee8113135c0"
-Parent: "d7e9afeb-bb24-494d-bae4-b50ab41e9900"
-Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
-Path: "/sitecore/media library/Project/demo-tenant/Novena/Partners/3"
-Signature: JNxjfhCyZ37kF26mLtxBQkzvZKqK2Eo+sxnm5HwJb/M=
-Modified: 638084416723044730
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\img-3.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\img-3.yml
 ID: "62b10dd2-d50b-4365-9495-6824f9bfa9fd"
 Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
 Template: "daf085e8-602e-43a6-8299-038ff171349f"
@@ -181,7 +28,43 @@ Signature: xrH8ZhRm3LfphPnzxkKvJ0ygWvgaWgviNhyPMv8khQk=
 Modified: 638086288816504065
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Partners\4.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\sign.yml
+ID: "b4a058d7-1129-4338-b228-2ce3030fec4b"
+Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/demo-tenant/Novena/sign"
+Signature: Me8sxA+GfmlgVmthmXTtf27gNy6+t4an0DEgnWkvVbc=
+Modified: 638086288816521705
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Sitemaps.yml
+ID: "ffc3cf9b-7a82-438b-8415-cd8a680e361b"
+Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/demo-tenant/Novena/Sitemaps"
+Signature: apgh68e3ncaVVjrnRoAYfG+ABV5I2w8rj9TlLwJOJm4=
+Modified: 638086288816582321
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\slider-bg-1.yml
+ID: "494b5ce2-e8c4-4be9-9744-8bf482774029"
+Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/demo-tenant/Novena/slider-bg-1"
+Signature: Fr2wxzS3zSdI/d6sEfKm5EqWnnCg73lMMBrxBklDZiw=
+Modified: 638084416722914732
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Partners\1.yml
+ID: "21d502e1-165f-446f-8aa1-edff0c30822a"
+Parent: "d7e9afeb-bb24-494d-bae4-b50ab41e9900"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/demo-tenant/Novena/Partners/1"
+Signature: sqwWL0bAK5/ENjcErDVVUZmE7DD/6Gdl6ylJ9MAr23M=
+Modified: 638084416722965239
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Partners\4.yml
 ID: "608462a9-0378-49f1-a65b-faac304de151"
 Parent: "d7e9afeb-bb24-494d-bae4-b50ab41e9900"
 Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
@@ -190,7 +73,7 @@ Signature: ucptw5I11UjlLb9Ji0k+wyIMscZjiKLe8b7mrFcXzN4=
 Modified: 638084416723074759
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Partners\5.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Partners\5.yml
 ID: "3453ef26-08d6-4f3c-869a-5c3a2e03407d"
 Parent: "d7e9afeb-bb24-494d-bae4-b50ab41e9900"
 Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
@@ -199,7 +82,124 @@ Signature: nSRpcPN8PMm4ocWPE2udSWd3JAGvIP1zFnvZFqD4vgE=
 Modified: 638084416723114755
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Partners\6.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant.yml
+ID: "acfdae69-e9a2-4d21-b838-47740441e225"
+Parent: "90ae357f-6171-4ea9-808c-5600b678f726"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/demo-tenant"
+Signature: SJ8MHNopa0U5gynBY7ZPugp647i2SnjgERy77yWqoW4=
+Modified: 638084416722564310
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena.yml
+ID: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
+Parent: "acfdae69-e9a2-4d21-b838-47740441e225"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/demo-tenant/Novena"
+Signature: tn9WLzBnCegXsNe/h4WnJ3e6gt0n446r3qZq8Ie0wSM=
+Modified: 638084416722616818
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\shared.yml
+ID: "0168dbba-d596-46a2-97c2-ade5920f4e66"
+Parent: "acfdae69-e9a2-4d21-b838-47740441e225"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/demo-tenant/shared"
+Signature: SJ8MHNopa0U5gynBY7ZPugp647i2SnjgERy77yWqoW4=
+Modified: 638084416722646818
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\22.yml
+ID: "dcfc2647-3313-44bd-a002-c65a82196876"
+Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/demo-tenant/Novena/22"
+Signature: nAMBFijHTmDfNv+FHKGAe7eH/AC+9ymjsypSN/Sii4I=
+Modified: 638084416722706817
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\about-1.yml
+ID: "8d684fa4-9974-4f28-bda3-aad494c01000"
+Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/demo-tenant/Novena/about-1"
+Signature: YzjRlkh6tC5c/X3CeVZTwmg6v3nWasqM0sRXmXonf5E=
+Modified: 638086288816122999
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\about-2.yml
+ID: "cf689310-3057-4c53-a2eb-8c37336c1793"
+Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/demo-tenant/Novena/about-2"
+Signature: oleN+N6W8ZK5zIyr9FW43h4udgtQZo/WGdv9r0Y608M=
+Modified: 638086288816196242
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\about-3.yml
+ID: "a7e0b1ca-b7e4-44e2-a34d-3e49aa606e61"
+Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/demo-tenant/Novena/about-3"
+Signature: vZ8ryHTXqzLa/OMZ/sQl8HTXy+36fQI0hBgJqbOZ1go=
+Modified: 638086288816244408
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\banner.yml
+ID: "602a4c6d-697f-4fb5-a423-0842621a3ff3"
+Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/demo-tenant/Novena/banner"
+Signature: z+iwfK1FJtFT2MVKok5UGXH6SV0AEJBEVhWRpt57VAg=
+Modified: 638084416722772657
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\img-1.yml
+ID: "10af07ec-9e1e-44a3-afd7-7db5a3bc9d35"
+Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/demo-tenant/Novena/img-1"
+Signature: IHrAffVJfBSz5kvQwDilEYT7rE+i6xKkQky6bhCQrnc=
+Modified: 638086288816377945
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\logo.yml
+ID: "86b2d00c-0ae6-481f-a35d-bd5392491bb7"
+Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/demo-tenant/Novena/logo"
+Signature: x8PLliR9vuXfvrTw4tg8KQ6WJhYdZvxUDSV5tp93g8Q=
+Modified: 638084416722812652
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Partners.yml
+ID: "d7e9afeb-bb24-494d-bae4-b50ab41e9900"
+Parent: "0d891530-e0ee-4515-b1b4-e7763f33c0af"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/demo-tenant/Novena/Partners"
+Signature: 7g6Wik5GpMtO4uhiY8NhVHEPfED2+2tPFojtM06XavU=
+Modified: 638084416722852650
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Partners\2.yml
+ID: "2a0092c7-35a9-4215-a5b1-40acc882e795"
+Parent: "d7e9afeb-bb24-494d-bae4-b50ab41e9900"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/demo-tenant/Novena/Partners/2"
+Signature: u71MLb+wxqVMJGhcYCU/sEOHhhFofAitwC10aVo17dI=
+Modified: 638084416723004759
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Partners\3.yml
+ID: "2bd60661-1725-410f-8c44-1ee8113135c0"
+Parent: "d7e9afeb-bb24-494d-bae4-b50ab41e9900"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/demo-tenant/Novena/Partners/3"
+Signature: JNxjfhCyZ37kF26mLtxBQkzvZKqK2Eo+sxnm5HwJb/M=
+Modified: 638084416723044730
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Partners\6.yml
 ID: "610eb7dd-b3d6-4463-8ce3-8946af314db5"
 Parent: "d7e9afeb-bb24-494d-bae4-b50ab41e9900"
 Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
@@ -208,7 +208,7 @@ Signature: iIvyZFiwqyrau8LSNOUHIPN2RxP0EOTYlsVwaPMSF4o=
 Modified: 638084416723144737
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Sitemaps\sitemap.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Media\demo-tenant\Novena\Sitemaps\sitemap.yml
 ID: "651e169a-7d72-456e-83c4-eae1d02e4b83"
 Parent: "ffc3cf9b-7a82-438b-8415-cd8a680e361b"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"

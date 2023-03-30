@@ -1,7 +1,16 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Feature\Identity\serialization\Renderings\Identity\CompanyInformation.yml
+  C:\jss\jss-demo-xm0\src\Feature\Identity\serialization\Renderings\Identity.yml
+ID: "08369abf-5910-49ae-8af1-9d2d72ac09f2"
+Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/Identity
+Signature: canDObKYiML3sTK4ZPwUhRx2RKyDABYTxkuG63mlZSc=
+Modified: 638084398446471975
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Feature\Identity\serialization\Renderings\Identity\CompanyInformation.yml
 ID: "6d1feb86-fc72-49c7-8b94-a0c5c0fd542b"
 Parent: "08369abf-5910-49ae-8af1-9d2d72ac09f2"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
@@ -10,19 +19,10 @@ Signature: eDWiOQo5gklt7OQ/4XiWAskEAGXCYtlvoHLDoq3P7lA=
 Modified: 638084398446551099
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Feature\Identity\serialization\Renderings\Identity\Logo.yml
+  C:\jss\jss-demo-xm0\src\Feature\Identity\serialization\Renderings\Identity\Logo.yml
 ID: "9a95592f-b107-4cec-988b-25bafd178d6b"
 Parent: "08369abf-5910-49ae-8af1-9d2d72ac09f2"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: /sitecore/layout/Renderings/Feature/Identity/Logo
 Signature: zZfKAs1Sjo4wfFQpRrn4kLUSNYeq3rNyl0c+mobhk74=
 Modified: 638084398446604396
----
-File: |
-  C:\jss\xm0-jss-demo\src\Feature\Identity\serialization\Renderings\Identity.yml
-ID: "08369abf-5910-49ae-8af1-9d2d72ac09f2"
-Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
-Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
-Path: /sitecore/layout/Renderings/Feature/Identity
-Signature: canDObKYiML3sTK4ZPwUhRx2RKyDABYTxkuG63mlZSc=
-Modified: 638084398446471975

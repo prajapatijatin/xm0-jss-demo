@@ -12,7 +12,7 @@ SharedFields:
   Value: 
 - ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
   Hint: Open Properties after Add
-  Value: 1
+  Value: 
 Languages:
 - Language: en
   Fields:
@@ -35,11 +35,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "feee92e6-5a63-42b8-a1b0-d8150420f9bc"
+      Value: "1995ca97-4056-42ed-ac7c-9132ffa6d80f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221227T103126Z
+      Value: 20230131T050639Z

@@ -34,7 +34,7 @@ SharedFields:
   Value: "{38E761E6-409F-4714-97F4-34370FCE3F94}"
 - ID: "5e8ed724-126a-4bb7-8106-85c2d1042c9e"
   Hint: ServerSideRenderingEngineApplicationUrl
-  Value: "https://www.novena.localhost/"
+  Value: "https://www.novena.localhost"
 - ID: "72e83c8d-3578-4e50-b4c0-93a78a1729f2"
   Hint: FilesystemPath
   Value: /dist/Novena
@@ -79,11 +79,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "117307d1-73c0-4892-9ab1-320a9784158f"
+      Value: "f1b1ab2f-23aa-4ae0-bc4e-667b70aba7b8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230104T120748Z
+      Value: 20230201T150257Z

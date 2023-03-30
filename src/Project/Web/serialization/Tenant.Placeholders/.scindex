@@ -1,25 +1,7 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Placeholders\demo-tenant.yml
-ID: "38e761e6-409f-4714-97f4-34370fce3f94"
-Parent: "f5f0fbe3-61ad-4967-a5d8-8d760331d6a1"
-Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
-Path: "/sitecore/layout/Placeholder Settings/Project/demo-tenant"
-Signature: oKv/IMu4Bd6UyFO6vYCvQ4BIsoixpUjIerYWU900KwE=
-Modified: 638084415488687702
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Placeholders\demo-tenant\Novena\novena-headless-footer-top.yml
-ID: "ff189c36-85f9-43c3-91c1-62e0015997f5"
-Parent: "5eb0e6d3-4165-49d5-8d8d-fd70f445ff3f"
-Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
-Path: "/sitecore/layout/Placeholder Settings/Project/demo-tenant/Novena/novena-headless-footer-top"
-Signature: QfEjKigrxz0pG9E7DvLxN2NMmKsoPWnqLHWu88+E1wo=
-Modified: 638084415488875737
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Placeholders\demo-tenant\Novena.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Placeholders\demo-tenant\Novena.yml
 ID: "5eb0e6d3-4165-49d5-8d8d-fd70f445ff3f"
 Parent: "38e761e6-409f-4714-97f4-34370fce3f94"
 Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
@@ -28,25 +10,16 @@ Signature: O1BCnOZt/wQANvFoqO+rBlYKq1zF5TuTpDn219uxdbo=
 Modified: 638084415488761813
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Placeholders\demo-tenant\Novena\novena-headless-footer-bottom.yml
-ID: "f69b39a4-37cd-4bbb-b0dd-68c31cfdbbb9"
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Placeholders\demo-tenant\Novena\novena-headless-footer-top.yml
+ID: "ff189c36-85f9-43c3-91c1-62e0015997f5"
 Parent: "5eb0e6d3-4165-49d5-8d8d-fd70f445ff3f"
 Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
-Path: "/sitecore/layout/Placeholder Settings/Project/demo-tenant/Novena/novena-headless-footer-bottom"
-Signature: XTR2jcussBR3zHgo6YVxXMW4xJi4yiftswVUPLG+hug=
-Modified: 638084415488820919
+Path: "/sitecore/layout/Placeholder Settings/Project/demo-tenant/Novena/novena-headless-footer-top"
+Signature: QfEjKigrxz0pG9E7DvLxN2NMmKsoPWnqLHWu88+E1wo=
+Modified: 638084415488875737
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Placeholders\demo-tenant\Novena\novena-jss-features.yml
-ID: "aef1731f-3375-479e-996c-2394d2439910"
-Parent: "5eb0e6d3-4165-49d5-8d8d-fd70f445ff3f"
-Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
-Path: "/sitecore/layout/Placeholder Settings/Project/demo-tenant/Novena/novena-jss-features"
-Signature: oyNIbB8cpI8AfEP71aJl++w0gS3XWP20AMW07+411Kk=
-Modified: 638084415488926633
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Placeholders\demo-tenant\Novena\novena-jss-header-bottom.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Placeholders\demo-tenant\Novena\novena-jss-header-bottom.yml
 ID: "d31c193b-777a-45ec-b3ac-732416f23fa9"
 Parent: "5eb0e6d3-4165-49d5-8d8d-fd70f445ff3f"
 Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
@@ -55,7 +28,34 @@ Signature: gJ9j6WlhGFwk3/aKtHMtbzX14dYaDRzg0/iZC+jNX+A=
 Modified: 638084415488979576
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Tenant.Placeholders\demo-tenant\Novena\novena-jss-header-top.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Placeholders\demo-tenant.yml
+ID: "38e761e6-409f-4714-97f4-34370fce3f94"
+Parent: "f5f0fbe3-61ad-4967-a5d8-8d760331d6a1"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: "/sitecore/layout/Placeholder Settings/Project/demo-tenant"
+Signature: oKv/IMu4Bd6UyFO6vYCvQ4BIsoixpUjIerYWU900KwE=
+Modified: 638084415488687702
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Placeholders\demo-tenant\Novena\novena-headless-footer-bottom.yml
+ID: "f69b39a4-37cd-4bbb-b0dd-68c31cfdbbb9"
+Parent: "5eb0e6d3-4165-49d5-8d8d-fd70f445ff3f"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/demo-tenant/Novena/novena-headless-footer-bottom"
+Signature: XTR2jcussBR3zHgo6YVxXMW4xJi4yiftswVUPLG+hug=
+Modified: 638084415488820919
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Placeholders\demo-tenant\Novena\novena-jss-features.yml
+ID: "aef1731f-3375-479e-996c-2394d2439910"
+Parent: "5eb0e6d3-4165-49d5-8d8d-fd70f445ff3f"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/demo-tenant/Novena/novena-jss-features"
+Signature: oyNIbB8cpI8AfEP71aJl++w0gS3XWP20AMW07+411Kk=
+Modified: 638084415488926633
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Tenant.Placeholders\demo-tenant\Novena\novena-jss-header-top.yml
 ID: "7ac95d1b-091a-41ed-a6c9-4f1efd8654b2"
 Parent: "5eb0e6d3-4165-49d5-8d8d-fd70f445ff3f"
 Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"

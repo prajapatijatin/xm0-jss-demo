@@ -1,151 +1,7 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Contact Items Folder.yml
-ID: "af3cd129-f9e8-40f3-a047-8a7b60f5a505"
-Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/Base Components/Contact Items Folder
-Signature: ANmTtKA223RxvfFKhuU5TQpDWRemPJI6H1UWYIDotjY=
-Modified: 638084399877241712
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\ContactItem.yml
-ID: "9ea5c966-820e-4693-8798-2f5d80f3990c"
-Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/Base Components/ContactItem
-Signature: beqAGnOxk4ynUNCX5pNdjSZU+J6K3mrlaMhsHJxRpbc=
-Modified: 638084399877275176
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Partners List.yml
-ID: "5587f7ba-b8c9-4457-be04-243b6efe4741"
-Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/Base Components/Partners List
-Signature: IHIPdarUhoa95hwKw1ydUYy78xxrhfjjA61D3ky/vBc=
-Modified: 638084399877591535
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Teasers Folder.yml
-ID: "44b97567-69fd-4d2b-8399-0dbacb9a9ca9"
-Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/Base Components/Teasers Folder
-Signature: 4XvMsu4lT6GnXA1X+Cv/unCi+/rY1fwHnv7drnJzOIY=
-Modified: 638084399877745536
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\ContactItem\Data\Text.yml
-ID: "421b145f-f5c4-4461-b569-a7201bb8358f"
-Parent: "04150f91-97e4-445b-9270-c3ddc85d75a3"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/ContactItem/Data/Text
-Signature: 8rEUx77ibX01YG2FJiXOH62wvI6T1JpDGM5rAoYsGng=
-Modified: 638084399878755040
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Get In Touch\Data.yml
-ID: "f9948edc-a937-4f32-9b56-5f940c5a7215"
-Parent: "78bfd8db-60b9-45a5-b96f-6d8b5f47f8a3"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Feature/Base Components/Get In Touch/Data
-Signature: xxeMbAowWidobg/UXV/SNOPIWWCd8DUJlWFxlrHVDHw=
-Modified: 638084399877984622
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Hero\Data\BackgroundImage.yml
-ID: "4bb51f3d-e5dc-4a04-8a13-3ade81535609"
-Parent: "1d110739-35e3-45c9-872c-c5e2436a97b7"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/Hero/Data/BackgroundImage
-Signature: rt908N7r/Kt79hy8pRWcCEhqaAA9bze+2bfKUXQvPJw=
-Modified: 638084399882505340
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Partners List Folder\__Standard Values.yml
-ID: "48ba35a4-0461-440a-b3e9-194d54f77db5"
-Parent: "fce61136-7da1-4ed5-8e42-e7249c0b06e7"
-Template: "fce61136-7da1-4ed5-8e42-e7249c0b06e7"
-Path: /sitecore/templates/Feature/Base Components/Partners List Folder/__Standard Values
-Signature: sQOf5X67hQBnF2dO3a8AUi2afiH3Qr5in1qGkFw48Fw=
-Modified: 638084399878486121
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Hero Folder\__Standard Values.yml
-ID: "31df4a6b-b5f5-4ba9-9d6b-1ee3b96c0e47"
-Parent: "6e70ac7b-a045-4c31-8c40-7801672b701e"
-Template: "6e70ac7b-a045-4c31-8c40-7801672b701e"
-Path: /sitecore/templates/Feature/Base Components/Hero Folder/__Standard Values
-Signature: im4BKPz+J7xPNLUvYtIDZBHGgi82ysabfT5Mcr1FdTM=
-Modified: 638084399878191727
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Teaser\Data\IconClass.yml
-ID: "eb06879b-af00-4631-a47a-6360ef8bf348"
-Parent: "576f119d-1620-46dc-bedf-7c8ca5d41329"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/Teaser/Data/IconClass
-Signature: 3Hl+MQISLc16EhC0jW9MSJA5uRUAvOpkweccm/oz8ME=
-Modified: 638084399882841474
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Partners Folder\__Standard Values.yml
-ID: "ecb8ecd0-e776-4062-9a52-cdccda2cf67e"
-Parent: "afa8a630-8c59-495f-907a-f842c89d3ef3"
-Template: "afa8a630-8c59-495f-907a-f842c89d3ef3"
-Path: /sitecore/templates/Feature/Base Components/Partners Folder/__Standard Values
-Signature: QMW0YznaYJXA8e6mNdyhmoSVyCvQQjZRqecym9Lu/qM=
-Modified: 638084399878364542
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Partners List\Data\Heading.yml
-ID: "605386a7-c91b-4695-9a3a-d9f75731d4ee"
-Parent: "e1ac1115-29b5-4d74-912c-ae92889a9286"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/Partners List/Data/Heading
-Signature: IEe3RD41qdID6Xzempp6yDldi9duOLWw8+RVbBnyEJg=
-Modified: 638084399882601917
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Teaser\Data\Text.yml
-ID: "99e306c5-fd74-4289-ba2a-1d427862e5fd"
-Parent: "576f119d-1620-46dc-bedf-7c8ca5d41329"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/Teaser/Data/Text
-Signature: +6DwMt3FK6WQ3rZpp+236MdHGV80CGO1mAo7MKgxoUo=
-Modified: 638084399882801474
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Partners List Folder.yml
-ID: "fce61136-7da1-4ed5-8e42-e7249c0b06e7"
-Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/Base Components/Partners List Folder
-Signature: QRw3AE+eG1/iOm6aQECtryt+lSShTa4AmgDCxKDkNSw=
-Modified: 638084399877634588
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Partners Folder.yml
-ID: "afa8a630-8c59-495f-907a-f842c89d3ef3"
-Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/Base Components/Partners Folder
-Signature: oqkCbBSJkE8XdZn+aNXvUyo+/v/lj5SiNamF6RePrAU=
-Modified: 638084399877544174
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Hero Folder.yml
-ID: "6e70ac7b-a045-4c31-8c40-7801672b701e"
-Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/Base Components/Hero Folder
-Signature: p8f9W6ALHBnXvy1m5vlr+7tk3I9NSCpEmv8E+r5s0oY=
-Modified: 638084399877405083
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Hero.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Hero.yml
 ID: "773a06b0-9c6f-4469-85f1-764bce3e645d"
 Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
@@ -154,115 +10,34 @@ Signature: h95ALSTptXlIG6iTZHpGYVYyVkrlSnAIUvLMwVKSZp0=
 Modified: 638084399877355178
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Partner.yml
-ID: "22887c44-135d-420b-be09-38cdd6ec9f88"
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Partners List Folder.yml
+ID: "fce61136-7da1-4ed5-8e42-e7249c0b06e7"
 Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/Base Components/Partner
-Signature: s1xk4KmP2Njnr2JzKWLXdbleyyYshjhoeq/SX9PDvpo=
-Modified: 638084399877486974
+Path: /sitecore/templates/Feature/Base Components/Partners List Folder
+Signature: QRw3AE+eG1/iOm6aQECtryt+lSShTa4AmgDCxKDkNSw=
+Modified: 638084399877634588
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\ContactItem\Data\Icon.yml
-ID: "894b4262-c3ed-474e-a15e-10ac739578c0"
-Parent: "04150f91-97e4-445b-9270-c3ddc85d75a3"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/ContactItem/Data/Icon
-Signature: landCbiIEDiWpqIjFE2fquHgrdpCawIKUKoQRKbORRU=
-Modified: 638084399878680285
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Teasers Folder.yml
+ID: "44b97567-69fd-4d2b-8399-0dbacb9a9ca9"
+Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Base Components/Teasers Folder
+Signature: 4XvMsu4lT6GnXA1X+Cv/unCi+/rY1fwHnv7drnJzOIY=
+Modified: 638084399877745536
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\ContactItem\Data.yml
-ID: "04150f91-97e4-445b-9270-c3ddc85d75a3"
-Parent: "9ea5c966-820e-4693-8798-2f5d80f3990c"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Feature/Base Components/ContactItem/Data
-Signature: pyU/DgD6+k5zYdmOvYDZVxhLB8b8LL2Dt+P0/jv1OCs=
-Modified: 638084399877918582
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Hero Folder\__Standard Values.yml
+ID: "31df4a6b-b5f5-4ba9-9d6b-1ee3b96c0e47"
+Parent: "6e70ac7b-a045-4c31-8c40-7801672b701e"
+Template: "6e70ac7b-a045-4c31-8c40-7801672b701e"
+Path: /sitecore/templates/Feature/Base Components/Hero Folder/__Standard Values
+Signature: im4BKPz+J7xPNLUvYtIDZBHGgi82ysabfT5Mcr1FdTM=
+Modified: 638084399878191727
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Contact Items Folder\__Standard Values.yml
-ID: "6a96177d-aa8a-4635-80e0-b6e1a4196cbb"
-Parent: "af3cd129-f9e8-40f3-a047-8a7b60f5a505"
-Template: "af3cd129-f9e8-40f3-a047-8a7b60f5a505"
-Path: /sitecore/templates/Feature/Base Components/Contact Items Folder/__Standard Values
-Signature: Fr5C7uvsocuP4aM9MrlrITF6igHcXPiXSoxjVK0V9G8=
-Modified: 638084399877828318
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Get In Touch\Data\Heading.yml
-ID: "e3835fdd-27e0-4812-9c79-9c600c5a8cb3"
-Parent: "f9948edc-a937-4f32-9b56-5f940c5a7215"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/Get In Touch/Data/Heading
-Signature: lvZ6BvWwr16l0DY6c210UhfK1X6UooBgYHikPJph1O8=
-Modified: 638084399882176871
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Get In Touch\Data\ContactItems.yml
-ID: "71625963-8291-4238-8d8a-610b91be31d6"
-Parent: "f9948edc-a937-4f32-9b56-5f940c5a7215"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/Get In Touch/Data/ContactItems
-Signature: Qh4sl3mj5WttY5x5+59wAA+jpUuVGTe4tnZmXYVgX8Q=
-Modified: 638084399882291600
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\ContactItem\Data\Label.yml
-ID: "63501967-aea2-4833-9966-d9a2a567a511"
-Parent: "04150f91-97e4-445b-9270-c3ddc85d75a3"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/ContactItem/Data/Label
-Signature: PJjaNyxFIAkHSBl4piEVPMx5PcjVWUyvfOyY+ArgNeA=
-Modified: 638084399878710257
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Hero\Data\CTA.yml
-ID: "174520fe-ad30-49d7-9560-0792f6cce3cd"
-Parent: "1d110739-35e3-45c9-872c-c5e2436a97b7"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/Hero/Data/CTA
-Signature: TgsoYYwsbfU3+MVZBhv1i44MLFppFjDcrdwtV/heo/E=
-Modified: 638084399882465341
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Hero\Data\Description.yml
-ID: "fcd6e41b-5588-42e3-a30a-c0b67d5a0c1b"
-Parent: "1d110739-35e3-45c9-872c-c5e2436a97b7"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/Hero/Data/Description
-Signature: EY3bUhR/UVfG8N6HpdQuWJEeuWZ+YwS+PPfW+4EPXqU=
-Modified: 638084399882425365
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Hero\Data.yml
-ID: "1d110739-35e3-45c9-872c-c5e2436a97b7"
-Parent: "773a06b0-9c6f-4469-85f1-764bce3e645d"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Feature/Base Components/Hero/Data
-Signature: UhUxsAC9irxsAvDHl129Upd8vlOio42fPS+dUW0PhSE=
-Modified: 638084399878116573
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Hero\Data\Heading.yml
-ID: "ba389c20-ce63-4653-9a9f-20a086b5b08f"
-Parent: "1d110739-35e3-45c9-872c-c5e2436a97b7"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/Hero/Data/Heading
-Signature: mZrCFySxHOlssjkx6+jFb4m++UZqS/FVDdNorBm013U=
-Modified: 638084399882342462
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Partner\Data.yml
-ID: "bf514c22-42f6-4b53-910b-6876ffbf0532"
-Parent: "22887c44-135d-420b-be09-38cdd6ec9f88"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Feature/Base Components/Partner/Data
-Signature: uubFLkrGrBHr5zyo9ZZsBd6j7eSGghiar2NCiUyXYyw=
-Modified: 638084399878304805
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Partners List\Data.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Partners List\Data.yml
 ID: "e1ac1115-29b5-4d74-912c-ae92889a9286"
 Parent: "5587f7ba-b8c9-4457-be04-243b6efe4741"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
@@ -271,88 +46,7 @@ Signature: 16PWFpP2tUU7ds24xvCnP36vXZu5RmtIszSKg8c7tks=
 Modified: 638084399878424155
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Partners List\Data\Partners.yml
-ID: "f812af5e-69f5-4563-9845-966b1600e8a9"
-Parent: "e1ac1115-29b5-4d74-912c-ae92889a9286"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/Partners List/Data/Partners
-Signature: LHFykeJ68yuOEIWbuJumUpwMTFFhHDxFqnQrJVFnPBQ=
-Modified: 638084399882680589
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Teaser\Data\CTA.yml
-ID: "17f7d755-2534-466e-9bb1-e46382547ac1"
-Parent: "576f119d-1620-46dc-bedf-7c8ca5d41329"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/Teaser/Data/CTA
-Signature: FaAsMRYNUGRtzopylAKpjM3OnWQn8TNkqC9K1y8dSSM=
-Modified: 638084399882871668
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Teaser\Data\Heading.yml
-ID: "6f916209-f186-4c19-90b3-87e324be7a0e"
-Parent: "576f119d-1620-46dc-bedf-7c8ca5d41329"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/Teaser/Data/Heading
-Signature: RSyuGEiSaEIXbJZ3bZEdOu3/b980KdU0LaCFgh7LxRU=
-Modified: 638084399882725763
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components.yml
-ID: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
-Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Feature/Base Components
-Signature: qkN2qj6IRZQHbZSxN7mChbEkA4wmkOhcFe6s9432czE=
-Modified: 638084399877114362
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Get In Touch.yml
-ID: "78bfd8db-60b9-45a5-b96f-6d8b5f47f8a3"
-Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/Base Components/Get In Touch
-Signature: ox/KI4smcQT2niXrvGfNv1mYTaDllQnaMvOJ10W1Ml4=
-Modified: 638084399877315171
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Teaser.yml
-ID: "5c33f3ab-0fb8-42d7-bc18-37e0db62f003"
-Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/Base Components/Teaser
-Signature: 4n3FNYic/W2Lx3+dCd7WQYzG+aR41u1HEh3tR7K/rR8=
-Modified: 638084399877687563
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Hero\Data\TagLine.yml
-ID: "eab8647b-a5b7-43ee-b613-f735365ffff7"
-Parent: "1d110739-35e3-45c9-872c-c5e2436a97b7"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/Hero/Data/TagLine
-Signature: j9/rsDZjKDMJ/ylmE5Hu9G4lhcIbCKyOYwvWI871Jrw=
-Modified: 638084399882385341
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Partner\Data\PartnerLogo.yml
-ID: "ab852adc-478a-45b5-9957-14d6e497bf84"
-Parent: "bf514c22-42f6-4b53-910b-6876ffbf0532"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/Partner/Data/PartnerLogo
-Signature: wTpS44ZTZaZVdC93ibQ9qBwwl/98basFQIVxlbZd0zg=
-Modified: 638084399882562154
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Partners List\Data\Description.yml
-ID: "ed30287f-78cf-4458-97bd-5e2609dcf27a"
-Parent: "e1ac1115-29b5-4d74-912c-ae92889a9286"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/Base Components/Partners List/Data/Description
-Signature: NSwd8csPVup7/ybf/z6v1Bn0po6QA59/63oG2qBvOME=
-Modified: 638084399882641932
----
-File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Teaser\Data.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Teaser\Data.yml
 ID: "576f119d-1620-46dc-bedf-7c8ca5d41329"
 Parent: "5c33f3ab-0fb8-42d7-bc18-37e0db62f003"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
@@ -361,7 +55,205 @@ Signature: VWwB/GM3iQV+utmyRks5HwNz2FdUVJu5UOWFBYEeEMo=
 Modified: 638084399878578573
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Teaser\Data\TagLine.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\ContactItem\Data\Icon.yml
+ID: "894b4262-c3ed-474e-a15e-10ac739578c0"
+Parent: "04150f91-97e4-445b-9270-c3ddc85d75a3"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/ContactItem/Data/Icon
+Signature: landCbiIEDiWpqIjFE2fquHgrdpCawIKUKoQRKbORRU=
+Modified: 638084399878680285
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\ContactItem\Data\Text.yml
+ID: "421b145f-f5c4-4461-b569-a7201bb8358f"
+Parent: "04150f91-97e4-445b-9270-c3ddc85d75a3"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/ContactItem/Data/Text
+Signature: 8rEUx77ibX01YG2FJiXOH62wvI6T1JpDGM5rAoYsGng=
+Modified: 638084399878755040
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Hero\Data\Heading.yml
+ID: "ba389c20-ce63-4653-9a9f-20a086b5b08f"
+Parent: "1d110739-35e3-45c9-872c-c5e2436a97b7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/Hero/Data/Heading
+Signature: mZrCFySxHOlssjkx6+jFb4m++UZqS/FVDdNorBm013U=
+Modified: 638084399882342462
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Hero\Data\TagLine.yml
+ID: "eab8647b-a5b7-43ee-b613-f735365ffff7"
+Parent: "1d110739-35e3-45c9-872c-c5e2436a97b7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/Hero/Data/TagLine
+Signature: j9/rsDZjKDMJ/ylmE5Hu9G4lhcIbCKyOYwvWI871Jrw=
+Modified: 638084399882385341
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Teaser\Data\Heading.yml
+ID: "6f916209-f186-4c19-90b3-87e324be7a0e"
+Parent: "576f119d-1620-46dc-bedf-7c8ca5d41329"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/Teaser/Data/Heading
+Signature: RSyuGEiSaEIXbJZ3bZEdOu3/b980KdU0LaCFgh7LxRU=
+Modified: 638084399882725763
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Teaser\Data\IconClass.yml
+ID: "eb06879b-af00-4631-a47a-6360ef8bf348"
+Parent: "576f119d-1620-46dc-bedf-7c8ca5d41329"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/Teaser/Data/IconClass
+Signature: 3Hl+MQISLc16EhC0jW9MSJA5uRUAvOpkweccm/oz8ME=
+Modified: 638084399882841474
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\ContactItem.yml
+ID: "9ea5c966-820e-4693-8798-2f5d80f3990c"
+Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Base Components/ContactItem
+Signature: beqAGnOxk4ynUNCX5pNdjSZU+J6K3mrlaMhsHJxRpbc=
+Modified: 638084399877275176
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Partner.yml
+ID: "22887c44-135d-420b-be09-38cdd6ec9f88"
+Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Base Components/Partner
+Signature: s1xk4KmP2Njnr2JzKWLXdbleyyYshjhoeq/SX9PDvpo=
+Modified: 638084399877486974
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components.yml
+ID: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
+Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Base Components
+Signature: qkN2qj6IRZQHbZSxN7mChbEkA4wmkOhcFe6s9432czE=
+Modified: 638084399877114362
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Get In Touch.yml
+ID: "78bfd8db-60b9-45a5-b96f-6d8b5f47f8a3"
+Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Base Components/Get In Touch
+Signature: ox/KI4smcQT2niXrvGfNv1mYTaDllQnaMvOJ10W1Ml4=
+Modified: 638084399877315171
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Contact Items Folder\__Standard Values.yml
+ID: "6a96177d-aa8a-4635-80e0-b6e1a4196cbb"
+Parent: "af3cd129-f9e8-40f3-a047-8a7b60f5a505"
+Template: "af3cd129-f9e8-40f3-a047-8a7b60f5a505"
+Path: /sitecore/templates/Feature/Base Components/Contact Items Folder/__Standard Values
+Signature: Fr5C7uvsocuP4aM9MrlrITF6igHcXPiXSoxjVK0V9G8=
+Modified: 638084399877828318
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Contact Items Folder.yml
+ID: "af3cd129-f9e8-40f3-a047-8a7b60f5a505"
+Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Base Components/Contact Items Folder
+Signature: ANmTtKA223RxvfFKhuU5TQpDWRemPJI6H1UWYIDotjY=
+Modified: 638084399877241712
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Partners Folder.yml
+ID: "afa8a630-8c59-495f-907a-f842c89d3ef3"
+Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Base Components/Partners Folder
+Signature: oqkCbBSJkE8XdZn+aNXvUyo+/v/lj5SiNamF6RePrAU=
+Modified: 638084399877544174
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Hero\Data.yml
+ID: "1d110739-35e3-45c9-872c-c5e2436a97b7"
+Parent: "773a06b0-9c6f-4469-85f1-764bce3e645d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Base Components/Hero/Data
+Signature: UhUxsAC9irxsAvDHl129Upd8vlOio42fPS+dUW0PhSE=
+Modified: 638084399878116573
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Hero Folder.yml
+ID: "6e70ac7b-a045-4c31-8c40-7801672b701e"
+Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Base Components/Hero Folder
+Signature: p8f9W6ALHBnXvy1m5vlr+7tk3I9NSCpEmv8E+r5s0oY=
+Modified: 638084399877405083
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Teaser.yml
+ID: "5c33f3ab-0fb8-42d7-bc18-37e0db62f003"
+Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Base Components/Teaser
+Signature: 4n3FNYic/W2Lx3+dCd7WQYzG+aR41u1HEh3tR7K/rR8=
+Modified: 638084399877687563
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Hero\Data\BackgroundImage.yml
+ID: "4bb51f3d-e5dc-4a04-8a13-3ade81535609"
+Parent: "1d110739-35e3-45c9-872c-c5e2436a97b7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/Hero/Data/BackgroundImage
+Signature: rt908N7r/Kt79hy8pRWcCEhqaAA9bze+2bfKUXQvPJw=
+Modified: 638084399882505340
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Partners List.yml
+ID: "5587f7ba-b8c9-4457-be04-243b6efe4741"
+Parent: "d1873fc7-0d54-4b86-9ba1-ad8393a047e8"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Base Components/Partners List
+Signature: IHIPdarUhoa95hwKw1ydUYy78xxrhfjjA61D3ky/vBc=
+Modified: 638084399877591535
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Get In Touch\Data.yml
+ID: "f9948edc-a937-4f32-9b56-5f940c5a7215"
+Parent: "78bfd8db-60b9-45a5-b96f-6d8b5f47f8a3"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Base Components/Get In Touch/Data
+Signature: xxeMbAowWidobg/UXV/SNOPIWWCd8DUJlWFxlrHVDHw=
+Modified: 638084399877984622
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Partner\Data\PartnerLogo.yml
+ID: "ab852adc-478a-45b5-9957-14d6e497bf84"
+Parent: "bf514c22-42f6-4b53-910b-6876ffbf0532"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/Partner/Data/PartnerLogo
+Signature: wTpS44ZTZaZVdC93ibQ9qBwwl/98basFQIVxlbZd0zg=
+Modified: 638084399882562154
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\ContactItem\Data.yml
+ID: "04150f91-97e4-445b-9270-c3ddc85d75a3"
+Parent: "9ea5c966-820e-4693-8798-2f5d80f3990c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Base Components/ContactItem/Data
+Signature: pyU/DgD6+k5zYdmOvYDZVxhLB8b8LL2Dt+P0/jv1OCs=
+Modified: 638084399877918582
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Partners Folder\__Standard Values.yml
+ID: "ecb8ecd0-e776-4062-9a52-cdccda2cf67e"
+Parent: "afa8a630-8c59-495f-907a-f842c89d3ef3"
+Template: "afa8a630-8c59-495f-907a-f842c89d3ef3"
+Path: /sitecore/templates/Feature/Base Components/Partners Folder/__Standard Values
+Signature: QMW0YznaYJXA8e6mNdyhmoSVyCvQQjZRqecym9Lu/qM=
+Modified: 638084399878364542
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Teaser\Data\TagLine.yml
 ID: "89638aee-66a3-410f-935b-b6ad4d5d7146"
 Parent: "576f119d-1620-46dc-bedf-7c8ca5d41329"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
@@ -370,10 +262,118 @@ Signature: buqtoFKpq/k1kt4esQ7WIdkGrz/QdP6d/JD0BM/2/C4=
 Modified: 638084399882765486
 ---
 File: |
-  C:\jss\xm0-jss-demo\src\Project\Web\serialization\Templates\Base Components\Teasers Folder\__Standard Values.yml
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Partner\Data.yml
+ID: "bf514c22-42f6-4b53-910b-6876ffbf0532"
+Parent: "22887c44-135d-420b-be09-38cdd6ec9f88"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Base Components/Partner/Data
+Signature: uubFLkrGrBHr5zyo9ZZsBd6j7eSGghiar2NCiUyXYyw=
+Modified: 638084399878304805
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Partners List Folder\__Standard Values.yml
+ID: "48ba35a4-0461-440a-b3e9-194d54f77db5"
+Parent: "fce61136-7da1-4ed5-8e42-e7249c0b06e7"
+Template: "fce61136-7da1-4ed5-8e42-e7249c0b06e7"
+Path: /sitecore/templates/Feature/Base Components/Partners List Folder/__Standard Values
+Signature: sQOf5X67hQBnF2dO3a8AUi2afiH3Qr5in1qGkFw48Fw=
+Modified: 638084399878486121
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Teaser\Data\Text.yml
+ID: "99e306c5-fd74-4289-ba2a-1d427862e5fd"
+Parent: "576f119d-1620-46dc-bedf-7c8ca5d41329"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/Teaser/Data/Text
+Signature: +6DwMt3FK6WQ3rZpp+236MdHGV80CGO1mAo7MKgxoUo=
+Modified: 638084399882801474
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\ContactItem\Data\Label.yml
+ID: "63501967-aea2-4833-9966-d9a2a567a511"
+Parent: "04150f91-97e4-445b-9270-c3ddc85d75a3"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/ContactItem/Data/Label
+Signature: PJjaNyxFIAkHSBl4piEVPMx5PcjVWUyvfOyY+ArgNeA=
+Modified: 638084399878710257
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Teasers Folder\__Standard Values.yml
 ID: "ec1f96cd-c6dd-4da6-aecf-33fd883c02ab"
 Parent: "44b97567-69fd-4d2b-8399-0dbacb9a9ca9"
 Template: "44b97567-69fd-4d2b-8399-0dbacb9a9ca9"
 Path: /sitecore/templates/Feature/Base Components/Teasers Folder/__Standard Values
 Signature: j9g5dQpG/nJLSVki7IYKPCHwS67nBw5oMycsK4FY0qI=
 Modified: 638084399878636062
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Get In Touch\Data\ContactItems.yml
+ID: "71625963-8291-4238-8d8a-610b91be31d6"
+Parent: "f9948edc-a937-4f32-9b56-5f940c5a7215"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/Get In Touch/Data/ContactItems
+Signature: Qh4sl3mj5WttY5x5+59wAA+jpUuVGTe4tnZmXYVgX8Q=
+Modified: 638084399882291600
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Hero\Data\CTA.yml
+ID: "174520fe-ad30-49d7-9560-0792f6cce3cd"
+Parent: "1d110739-35e3-45c9-872c-c5e2436a97b7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/Hero/Data/CTA
+Signature: TgsoYYwsbfU3+MVZBhv1i44MLFppFjDcrdwtV/heo/E=
+Modified: 638084399882465341
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Get In Touch\Data\Heading.yml
+ID: "e3835fdd-27e0-4812-9c79-9c600c5a8cb3"
+Parent: "f9948edc-a937-4f32-9b56-5f940c5a7215"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/Get In Touch/Data/Heading
+Signature: lvZ6BvWwr16l0DY6c210UhfK1X6UooBgYHikPJph1O8=
+Modified: 638084399882176871
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Hero\Data\Description.yml
+ID: "fcd6e41b-5588-42e3-a30a-c0b67d5a0c1b"
+Parent: "1d110739-35e3-45c9-872c-c5e2436a97b7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/Hero/Data/Description
+Signature: EY3bUhR/UVfG8N6HpdQuWJEeuWZ+YwS+PPfW+4EPXqU=
+Modified: 638084399882425365
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Partners List\Data\Description.yml
+ID: "ed30287f-78cf-4458-97bd-5e2609dcf27a"
+Parent: "e1ac1115-29b5-4d74-912c-ae92889a9286"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/Partners List/Data/Description
+Signature: NSwd8csPVup7/ybf/z6v1Bn0po6QA59/63oG2qBvOME=
+Modified: 638084399882641932
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Partners List\Data\Partners.yml
+ID: "f812af5e-69f5-4563-9845-966b1600e8a9"
+Parent: "e1ac1115-29b5-4d74-912c-ae92889a9286"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/Partners List/Data/Partners
+Signature: LHFykeJ68yuOEIWbuJumUpwMTFFhHDxFqnQrJVFnPBQ=
+Modified: 638084399882680589
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Partners List\Data\Heading.yml
+ID: "605386a7-c91b-4695-9a3a-d9f75731d4ee"
+Parent: "e1ac1115-29b5-4d74-912c-ae92889a9286"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/Partners List/Data/Heading
+Signature: IEe3RD41qdID6Xzempp6yDldi9duOLWw8+RVbBnyEJg=
+Modified: 638084399882601917
+---
+File: |
+  C:\jss\jss-demo-xm0\src\Project\Web\serialization\Templates\Base Components\Teaser\Data\CTA.yml
+ID: "17f7d755-2534-466e-9bb1-e46382547ac1"
+Parent: "576f119d-1620-46dc-bedf-7c8ca5d41329"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Base Components/Teaser/Data/CTA
+Signature: FaAsMRYNUGRtzopylAKpjM3OnWQn8TNkqC9K1y8dSSM=
+Modified: 638084399882871668
